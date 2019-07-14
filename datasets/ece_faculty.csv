@@ -1,0 +1,1282 @@
+NetID,Professor Name,Professor Description,Research Interest,Research Area,Research Topic
+haitham,Haitham Al-Hassanieh,,,,
+jontalle,Jont Allen," Allens website is (http://auditorymodels.org)  BIO:
+During his 32 year AT&T Bell Labs career (after 1998, AT&T Labs) Allen specialized in nonlinear cochlear modeling, auditory and cochlear speech processing, and speech perception. While at AT&T Allen wrote more than 50 sole-authored journal articles on hearing, cochlear modeling, signal processing, room acoustics, speech perception and the articulation index (AI, a.k.a.  speech transmission index (STI), Speech intelligibility index (SII)). In 1982-1987 Allen he had primary responsibility with the development of the first commercial multiband wideband dynamic range compression (WDRC) hearing aid, later sold as the ReSound hearing aid. During this 5 years he was working closely with clinical audiologists and speech and hearing scientists, and with several hearing aid manufactures (Starkey, Phonak, Etymotic), who subsequently funded Allen's work.  During this period Allen wrote the first DSP code and developed the first fitting system, based on loudness in 1/2 octave bands (LGOB) which was used by ReSound as their commercial fitting system for many years. He was also responsible for the first analog compression circuits used in the primary product, that was produced by AT&T for ReSound, at the Allentown PA silicon foundry. Starting in 1986, Allen developed one of the first systems for non-evasively evaluating cochlear hearing using distortion produce otoacoustic emissions (DPOAEs), known as the (Cub^eDis) measurement system, which for several years (1988-1995) was commercially sold by Etymotic research, and after that by Mimosa Acoustics, for which Allen serves as the Chief Technology Officer (CTO). From 1998-2003, while at AT&T Labs, a spin off from Bell Labs, Allen worked on Loudness and consonant perception, which is a problem closely related to AI theory. In Aug. 2003 he join the ECE faculty, University of IL, Urbana where he teaches and works with his students on noninvasive objective diagnostic testing of cochlear and middle ear function, based on  acoustic reflectance (aka impedance) methods of the middle ear, auditory psychophysics, speech processing for hearing aid applications (noise reduction and multiband compression), speech and music coding (bit-rate reduction) and speech perception (models of loudness and  masking) and hearing aid transducer modeling. He is most actively working on the theory and practice of human speech recognition, for both normal and hearing impaired hearing, with the goals of improving hearing aid signal processing as well as automatic speech recognition robustness in the presences of noise and filtering.  From 2003-present, Allen has a number of students active in various projects on speech perception, middle ear models and hearing aid signal processing (Allen's Research Group) In the last 10 years Allen and his students have collected several large databases of speech perception in noise, by normal and impaired human subjects. This work has resulting in many publications on human speech perception.   From 2005-present Allen has also studied reading disabilities in young children. This work has been in collaboration with Prof. Cynthia Johnson of the UIUC Speech and Hearing Science Department (and many of her students). A third major research topic is the diagnosis of middle ear disorders, based on acoustic impedance measurements.This work is well documented in the publications from 1974-2015  (http://auditorymodels.web.engr.illinois.edu//index.php/Main/Publications). Allen has successfully developed several complex and innovative research programs,  first at Bell Labs in 1995  (cochlear modeling), followed by the development of the Bell Labs multiband compression hearing aid (1985-88) (Now labeled as GN-ReSound en.wikipedia.org/wiki/ReSound), followed by his speech perception research at UIUC in 2003 with his group of highly productive students.  This research has  provided many deep insights into difficult, significant and challenging problems of speech perception. Specifically Allen and his students have identified the basic features of many plosive and fricative speech sounds. This has allowed them to manipulate the perception of speech with surgical precision. Allen is well-versed in cochlear modeling, auditory neurophysiology, speech perception, speech processing, psychophysics, audiology as well as musical, speech and middle ear acoustics, acoustic impedance and reflectance, analog and digital signal processing, and clinical audiology.  Allen has more than 20 US patents on hearing aids, signal processing and middle ear measurement diagnostics. He teaches courses in mathematical physics (http://auditorymodels.web.engr.illinois.edu/index.php/Courses/ECE493-2013AdvEngMath), speech processing (http://auditorymodels.web.engr.illinois.edu/index.php/Courses/ECE537-2014SpeechProcessing), analog and digital signal processing, and clinical audiology, electroacoustics, transducer design (http://auditorymodels.web.engr.illinois.edu/index.php/Courses/ECE403-2013AudioEngineering).  His special interest is speech perception, which brings together many of these fields in a relevant way.  Additionally Allen has co-taught ECE-545 (Advanced Physical Acoustics) (https://courses.illinois.edu/schedule/2013/fall/ECE/545). This coming semester he has introduced a new math course for undergraduates ""ECE 298 JA - Concepts in Engineering Math"" (http://www.ece.illinois.edu/academics/courses/profile/ECE298JA-120158, http://auditorymodels.web.engr.illinois.edu/index.php/Courses/ECE298JA-F15). Since the early 1990's, Allen has been a visiting scientist in the Departments of Otolaryngology of Columbia University, City university of New York, and University of Calgary, and was an Osher Fellow at the Exploratorium Museum, San Francisco (www.exploratorium.edu/). He has been very active in IEEE and the ASA, running both major conferences (IEEE-ICASSP 1985, New York) and many small workshops.","
+Music perception
+Musical Acoustics (guitars, fiddles, some wind instruments)
+Evanescent wave propagation in horns
+Transducer physics and modeling (Loudspeakers)
+Wave propagation in inhomogeneous media. Acoustic horns.
+Models of the outer hair cells of the cochlea. Biophysical model of hair cell membrane mechanical properties, as a function of membrane voltage. (with Paul Fahey, Univ. Scranton, physics dept.)
+Modeling the middle ear in the time domain, with wave models. How does the eardrum transform the acoustic energy and funnel it into the cochlea?
+Robust human speech recognition
+Speech and music coding
+Articulation index modeling of confusion matrix measurements, of consonant vowel sounds, in noise
+Speech processing for hearing aid applications: Special signal processing techniques for removing reverberation and noise; multiband compression for loudness recruitment abatement;
+Auditory psychophysics: Intensity just noticeable difference (JND), speech psychophysics; confusion matrices; information processing by the auditory system
+Human speech recognition: Reverse engineering, measuring and modeling speech cues used by the human auditory system, when recognizing speech in large amounts of noise and with filtering; Articulation index; confusion matrices; information processing by the auditory system with speech as the signal
+Noninvasive diagnostic testing of the cochlear and middle ear: Otoacoustic emissions measured in the ear canal; noninvasive diagnostics; distortion product measurements; SFOAE; impedance; power reflectance of the ear canal
+Cochlear modeling: Mathematical models of cochlear function, including basilar membrane motion, biophysical models of outer hair cells; models of the micromechanics, including the tectorial membrane and cilia motions.","
+Acoustics
+Adaptive signal processing
+Analog integrated circuits
+Audio, speech, music and auditory processing
+Communications
+Electromagnetic theory
+High-frequency circuits
+Microwave devices and circuits
+Nonlinear systems and control
+Radio and optical wave propagation
+Signal Processing
+Speech recognition and processing","
+RF and microwave engineering"
+alvarez,Juan Alvarez,,"
+Applied probability
+Mathematical modeling of polymers and biophysical systems; in particular:
+- configurational and statistical properties of lattice models for polymers
+- steric stabilization and sensitized flocculation of colloidal dispersions
+- adsorption and localization of random copolymers
+- ion transport","
+Communications",
+mdbailey,Michael Donald Bailey,,,,
+arijit,Arijit Banerjee,,,,
+ymb,Yuliy Baryshnikov,,,,
+basar1,Tamer Baar,"Tamer Baar, who has been has been with the University of Illinois at Urbana-Champaign since 1981, was named Interim Dean of the College of Engineering at Illinois in January 2018. He is also the Director of the Center for Advanced Study (appointed in 2014), and currently holds the academic positions of Swanlund Endowed Chair; Center for Advanced Study Professor of Electrical and Computer Engineering; Professor, Coordinated Science Laboratory; Professor, Information Trust Institute; and Affiliate Professor, Mechanical Science and Engineering. Between 2008 and 2010, he was also Interim Director of the Beckman Institute for Advanced Science and Technology. He received his BSEE degree (1969) from Robert College (Istanbul), and MS (1970), MPhil (1971), and PhD (1972) degrees from Yale University (New Haven). Dr. Baar is a member of the US National Academy of Engineering (elected in 2000); Fellow of the Institute of Electrical and Electronics Engineers (IEEE), International Federation of Automatic Control (IFAC), and Society of Industrial and Applied Mathematics (SIAM); a past president of the IEEE Control Systems Society (CSS), the founding (and past) president of the International Society of Dynamic Games (ISDG), and a past president of the American Automatic Control Council (AACC). He has received several awards and recognitions over the years, including the highest awards of IEEE CSS, IFAC, AACC, and ISDG (respectively, the Bode Lecture Prize, Quazza Medal, Bellman Award, and Isaacs Award), the IEEE Control Systems Technical Field Award, Medal of Science of Turkey, and a number of international honorary doctorates and professorships, including chaired professorship at Tsinghua University. He has also received the Tau Beta Pi Daniel C. Drucker Eminent Faculty Award of the College of Engineering (2004). Professor Baar has over 800 publications in systems, control, communications, optimization, networks, and dynamic games, including books on non-cooperative dynamic game theory, robust control, network security, wireless and communication networks, and stochastic networks. Among his current research interests are multi-agent networked systems; stochastic teams, games, and networks; security; energy systems, including the smart grid; social networks; and cyber-physical systems. He was the editor-in-chief of the premier journal in control, Automatica, for eleven years (2004-2014), and is currently editor of several book series.  My current research interests concern: o Formulation of security and trust in communication and computer networks within control- and game-theoretic frameworks, addressing issues like intrusion detection and response, malware filtering, trust propagation and evolution, and resource allocation. o Remote control over networks under rate constraints, where the underlying issues are quantization and handling of packet losses and the presence noise in forward and reverse channels. o Optimal control and sensing over networks when the number of transmissions is restricted a priori. o Pricing, optimum resource allocation, and  mechanism design in networks with multiple user and service classes. o Consensus in computation under bit constraints on exchange of information among different computing stations, and with asynchronous communication. o Control of packets in networks for improved performance and particularly with regard to TCP and router algorithms. o Multi-level multi-resolution games with a high population of agents operating in adversarial environments. o Application of game-theoretic tools to resilience of cyber-physical systems, and the smart grid.","
+Multi-Resolution Games and Mean-Field Analysis for Infinitely Many Agents
+Cyber-Physical Systems
+Usage-Limited Sensing, Estimation, and Control
+Control over Heterogeneous Networks
+Intrusion Detection in Communication and Computer Networks
+Pricing Policies in Networks
+Flow Control and Routing in Communication Networks
+Neural Networks-Based Identification and Control
+Organizational Design, Incentives, and Coordination
+Asynchronous Computation in Distributed and Economic Systems
+Large Scale Systems Optimization via Singular and Regular Perturbations Analysis
+Decentralized Detection and Estimation
+Nonlinear and Distributed Control
+Minimax (H-infinity optimal) Hierarchical Controllers for Linear and Nonlinear Systems; Performance Robustness Analysis
+Stochastic Dynamic Games and Teams; Nonclassical Information Patterns","
+Communications
+Control
+Dynamic games and decision theory
+Networked control systems
+Networking and distributed computing
+Nonlinear systems and control
+Reliable and robust control
+Stochastic systems and control",
+cbayram,Can Bayram,"Prof. Can Bayram is an Assistant Professor in the Department of Electrical and Computer Engineering of University of Illinois at Urbana-Champaign, IL, USA. He is an expert in III-V materials and photonic and electronic devices. He has performed more than 3,000+ epitaxial growths with metalorganic chemical vapor deposition (MOCVD) systems and fabricated detectors, light emitting diodes, solar cells, resonant tunneling diodes, and transistors in class 100 and 1000 cleanrooms totaling 20,000+ hrs equipment usage. His current research interests lie in the intersection of novel III-V materials, hetero-structures, and photonic and electronic quantum devices. Particularly, his research group explores novel materials, devices, and their 3D hetero-integration on unconventional platforms such as graphene and silicon; investigates heat transport across/through semiconductors; efficiency droop mechanisms and remedies in AlInGaN emitters; and ultra-fast THz photonics/electronics. Prof. Bayrams work has been recognized widely. He is the recipient of the 2018 International Union of Pure and Applied Physics Young Scientist Prize in Optics, the 2018 IEEE Nanotechnology Council Early Career Award, a 2018 Dean's Award for Excellence in Research for Assistant Professor, a 2018 Turkish American Scientists & Scholars Association Young Scholar Award, a 2017 NSF CAREER Award, the 2017 CS Mantech Best Student Paper Award, a 2016 AFOSR Young Investigator Award, the 2014 IEEE Electron Devices Society Early Career Award, and the Best Paper Award at the 11th International Conference on Infrared Optoelectronics. Prof. Bayram is an affiliate faculty of Nick Holonyak, Jr Micro and Nanotechnology Laboratory and Carle Illinois College of Medicine. He has (co-) authored 45 journal papers (h-index  23), 34 conference proceeding papers, 2 book chapters, and has  47 patents issued/pending. For his achievements in ultraviolet-to-terahertz engineering of III-V semiconductor materials and devices, OSA, SPIE, and IEEE recognized him with senior member status.  Prof. Bayram worked as a Postdoctoral Research Scientist in the Silicon Technologies Division at the IBM Thomas J. Watson Research Center, Yorktown Heights, NY, USA from 2011 till 2014. His postdoctoral work at IBM on a novel means of thin film technology achieved record-breaking specific power solar cells and was featured on the cover of Advanced Energy Materials. He has - for the first time - integrated GaN-based devices on CMOS-compatible silicon substrates. This work was highlighted as the frontispiece in the Advanced Functional Materials issue. He demonstrated direct epitaxy of GaN on Graphene for the first time, as published in Nature Communications. Prof. Bayram received the Ph.D. degree from Prof. Manijeh Razeghi, Center for Quantum Devices, EECS of Northwestern University, IL, USA with a focus on Solid State and Photonics in 2011. His thesis work has demonstrated the first ultraviolet regime single photon detection, the first hybrid LED, and the first GaN intersubband devices. He received IEEE Electron Devices and IEEE Photonics Societies' fellowship awards and the Laser Technology, Engineering and Applications Award from SPIE. He was an IBM and Link Foundation PhD fellow and the recipient of Boeing Engineering and Dow Sustainability Innovation awards. Semiconductor fundamentals are essential in understanding everyday electronic and photonic devices. Undergraduate education should provide a solid foundation in semiconductors and should relate to everyday solid state devices. My goal as an instructor is to get students explain device behavior from the atomic scale up. I achieve this via first motivating the class for the big picture and then focusing on the atomic scale and describing atomic interactions leading to macroscopic effects observed in solid state devices. By building up the device behavior through atomic engineering, students understand the fundamentals governing everyday semiconductor devices such as light emitting diodes, solar cells, and transistors. It is notable that underlying physics, engineering, and science of solid state devices remain the same half a century; however, their applications  which I deem most important as an engineering faculty  diverse speedily. I see my role as a faculty not only to teach the fundamentals to the students but also making them aware of many out-there opportunities in the world. In the midst of fast-paced technology, one way to enable this is updating teaching tools and course materials. My instruction is geared towards enabling students become aware that microelectronics and photonics field is beyond the conventional solid state device applications and exciting them into the emerging interdisciplinary areas. I firmly believe teaching and research go hand-in-hand. I bring real-life problems to the classroom. Students need to leave their comfort zone, forego the classical classroom mentality, and look at tomorrow's needs via extending their knowledge, skills, and self. I bring fundamental knowledge, updated tools, and targeted means to the classroom for them do so. Our current research interests lie in the intersection of novel III-V materials and hetero-structures & photonic and electronic quantum devices. Particularly, we explore novel materials, devices, and their 3D hetero-integration on unconventional platforms such as graphene and silicon, heat transport across/through semiconductors, efficiency droop mechanisms and remedies in AlInGaN emitters, and ultra-fast THz photonics/electronics. Our work is interdisciplinary. Our team demonstrates strong skills in solid state physics, first principles calculations, Technology Computer Aided Design, micro/nano-fabrication, and reliability characterization and analysis of semiconductor devices. Our group might have an opening for a postdoctoral researcher who has HANDS-ON experience in the micro/nano-FABRICATION of compound semiconductor devices (including light emitting diodes and transistors based on GALLIUM NITRIDE devices) in a cleanroom environment. Postdoctoral candidates are encouraged to contact Prof. Can Bayram directly via email (and should attach their CV and the contact information for at least two references) to inquire about any position/project openings. Our group is inviting undergraduate and graduate students to apply for PhD thesis openings in the areas of (a) Novel III-V materials and hetero-structures, and (b) Photonic and electronic quantum devices. Our graduate students are recognized internally (as UIUC ECE 443 Best Project Awardees, UIUC College of Engineering Yunni & Maxine Pao Memorial Fellows, UIUC ECE Gregory Stillman Semiconductor Research Awardees, UIUC ECE Ernest A. Reid Fellows, UIUC ECE Nick and Katherine Holonyak, Jr. Outstanding Research Awardees, Graduate College Travel Grantees for Dissertation Research), nationally (as NSF Graduate Research Fellows, NASA Space Technology Research Fellows) and internationally (as SPIE Scholars, Conference Best Paper Awardees, Conference Travel Grantees, Siegman International School on Lasers Invitees). Incoming and/or interested graduates are encouraged to browse our group webpage and contact Prof. Can Bayram directly via email (and should attach their CV and unofficial UG/GRAD transcripts) to inquire about any position/project openings. Our group is inviting highly motivated undergraduates, currently enrolled at our University of Illinois at Urbana-Champaign, to join our research team. Particularly, students who wish to have experience in semiconductor devices and who are passionate about creating next generation photonic and micro/nano-electronic devices are welcomed. Historically, students who joined our research team as early as in their freshman/sophomore years are recognized internally (as UIUC ECE Bardeen Undergraduate Research Awardees, University of Illinois Campus Churchill Scholarship Nominees, UIUC College of Engineering Scholars, UIUC Campus Honors Program Summer Research Grantees, UIUC ECE Robert C. MacClinchie Scholars, UIUC ECE Michael E. Napier Memorial Awardees. UIUC MATSCI Alfred W. Allen Awardees, UIUC MATSCI Earl J. Eckel Scholars, UIUC ECE Distinguished Research Fellows, UIUC ECE Distinguished Fellows, University of Illinois Campus Churchill Scholarship Nominees) and externally (as Goldwater Scholars, NSF Graduate Research Fellows, NSF REU Awardees, SPIE Scholars, IEEE Women in Photonics Travel Grantees, DaRin Butz Foundation Research Scholars, Greater Austin Illini Club Scholars). UG researchers are expected to perform (at least one semester) summer research in our group. Please contact Prof. Can Bayram directly via email (and attach your CV and unofficial transcript showing your courses) to inquire about our any position/project openings.","
+ Efficiency droop mechanisms and remedies in AlInGaN emitters
+Ultra-fast THz photonics/electronics
+Heat transport across/through semiconductors
+Novel materials, devices, and their 3D hetero-integration on unconventional platforms such as graphene and silicon","
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Electromagnetics and Optics
+Energy storage conversion, management, and control
+Gallium nitride power semiconductors
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Microwave devices and circuits
+Microwave integrated circuits
+Millimeter wave integrated circuits
+Nano-electronics and single electronics
+Nano-materials
+Nano-photonics
+Nanotechnology
+Photonic crystals
+Photonic integrated circuits (PICs)
+Power and Energy Systems
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors","
+Beyond CMOS
+Charge particle physics and engineering
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+RF and microwave engineering
+Semiconductor devices and manufacturing
+Solar and renewable technology"
+belabbas,Mohamed Ali Belabbas,http://publish.illinois.edu/belabbas/,,"
+Nonlinear systems and control","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Bioelectronics and Bioinformatics
+Cognitive computing
+Computational science and engineering
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Machine learning
+Network science and engineering
+Neuro-engineering
+Robotics
+Sensing systems
+Smart infrastructures"
+jbernhar, Jennifer Bernhard," Prof. Bernhard's research addresses applications-oriented electromagnetic problems with an emphasis on theoretical analysis and experimental investigation. Her research group focuses on two areas: Electromagnetics for Wireless Communication and Reconfigurable Active and Passive Antennas.   Electromagnetics for Wireless Communication: This work centers on cutting-edge technology development and design techniques that will enable high data-rate wireless communication and wireless parallel computation. Prof. Bernhard's research group investigates the effects of packaging on antenna performance and uses these results to develop design-oriented models for internal antennas, embedded antennas, and diversity schemes. The research also creates synthesis approaches for internal portable antenna systems, including IoT, that produce desired performance while reducing user exposure and battery usage.    Reconfigurable Active and Passive Antennas: Prof. Bernhard's research implements reconfigurability in antenna structures to provide flexibility in operating frequency, bandwidth, and radiation pattern performance. Reconfigurability is accomplished using MEMS (microelectromechanical system) or traditional microwave switches, ferroelectric materials, or mechanical actuation of antenna components. The new multi-function antennas developed in this research will reduce dramatically the number and size of large array-based antenna systems, improve system efficiency, and decrease system cost and weight.    The research group is supported by a specialized fabrication facility, a new anechoic chamber (the Illinois Wireless Wind Tunnel), Agilent vector network analyzers, and opportunities for collaborations with the UIUC Center for Computational Electromagnetics.   Students with an interest in applied electromagnetics, including antennas and high frequency circuits, are encouraged to contact me via e-mail.  The background required for an undergraduate research position in my lab includes good performance in ECE 329 and ECE 450, with other advanced EM courses always a plus.  For first- and second-year students who haven't taken these courses yet, opportunities may exist from semester to semester to help with the research projects of advanced undergraduates or graduate students, but at a more basic level.","
+Multifunction Antennas and Antenna Systems
+Wireless Sensor Systems, including the Internet of Things (IoT)
+Antennas and Electromagnetics for Wireless Communication
+Reconfigurable Active and Passive Antennas",,
+boppart,Stephen Allen Boppart,"Prof. Boppart graduated from the University of Illinois at Urbana-Champaign (UIUC) in 1990 with a B.S. in Electrical Engineering and an option in Bioengineering. Continuing at UIUC, he completed his M.S. in Electrical Engineering in 1991, where he developed microfabricated multi-electrode arrays for neural recordings. From 1991 to 1993, at the Air Force Laser Laboratory in San Antonio, Texas, he conducted research on laser-tissue interactions in the eye, helping establish national laser safety standards. Prof. Boppart then went on to MIT, receiving his Ph.D. in 1998 in Medical and Electrical Engineering. His doctoral studies included the development of optical coherence tomography in Prof. Jim Fujimoto's laboratory.  As part of a joint program between MIT and Harvard, Prof. Boppart completed his M.D. from Harvard Medical School in June 2000. Currently, Prof. Boppart is an Abel Bliss Professor of Engineering with appointments in the Departments of Electrical and Computer Engineering, Bioengineering, and Medicine at UIUC. He is Head of the Biophotonics Imaging Laboratory at the Beckman Institute for Advanced Science and Technology and along with a team of 25 researchers, is investigating novel optical diagnostic imaging technologies for basic science and translational clinical applications.  From 2006-2008, he served as Founding Director of the Mills Breast Cancer Institute, and holds a research position with Carle Foundation Hospital in Urbana, Illinois. His efforts included constructing a new building and developing new infrastructure to support translational research and technology development in biomedical research between UIUC and Carle Foundation Hospital.  Prof. Boppart has co-founded three companies, the two more recent at UIUC include Diagnostics Photonics and PhotoniCare, which include novel optical imaging technologies for surgical and primary care applications, respectively. Currently he is Director of the campus-wide Imaging at Illinois initiative which leverages the strengths and diversity of over 100 faculty working in all aspects of imaging science, technology, and applications. Prof. Boppart's teaching activities and interests are highly interdisciplinary, following his research activities. Teaching activities cover cross-cutting areas in engineering, medicine, and biology. Courses have included ECE/BioE 414 and 415, Biomedical Instrumentation lecture and laboratory, ECE 460 Optical Imaging, ECE 380 Biomedical Imaging, and ECE 467 Biophotonics. For each of these, courses are taught relating fundamental engineering and scientific principles to real-world applications. Students participate directly with state-of-the-art information exchange by performing literature searches and preparing classroom presentations of journal articles about techniques and technologies discuss in lecture. Concepts are reinforced by use of stimulating discussions centered around clinical scenarios. For example, students in ECE 380 Biomedical Imaging are randomly given a medical beeper than when called for an ""emergency"", are presented with clinical medical images and scenarios that call on their ability to apply course principles to diagnose technical problems in the imaging data or systems. Students complete these courses having a broad-based knowledge of these subjects, and key tools for further in-depth investigations and advanced study. My interdisciplinary research group combines the fields of engineering, medicine, and biology to develop novel optical biomedical imaging technologies and translate these for biological discovery and clinical applications. Biophotonics, the application of light in medicine, biology, and biotechnology applications, enables us to develop innovative technologies to detect disease at early stages, when it is most amenable to treatment. There is a long history of undergraduate research opportunities in Prof. Boppart's Biophotonics Imaging Laboratory. Over the last 15 years, over 75 undergraduate students have conducted research in Prof. Bopparts laboratory, often leading to an undergraduate thesis. Research areas cover aspects of optical imaging and physics, signal and imaging processing, image acquisition systems, biomedical optics and biophotonics, laser and optical source development, and clinical imaging applications. Undergraduate research experiences typically extend over two or more semesters, and result in the completion of an undergraduate thesis and a departmental symposium presentation. Exceptional research has been published in peer-reviewed journals and presented at national conferences.","
+Optical Diagnostics of Cancer
+Medical Engineering
+Image-Guided Surgery
+Optical Coherence Tomography
+Lasers in Medicine and Biology
+Optical Biomedical Imaging","
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics
+Biosensors and bioelectronics
+Coherent optics/imaging
+Electromagnetics and Optics
+Lasers and optical physics
+Nano-photonics
+Nanotechnology
+Ultrafast laser spectroscopy","
+Bioelectronics and Bioinformatics
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Electronics, Plasmonics, and Photonics
+Genomics
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Medical imaging
+Nanomedicine and bio-nanotechnology
+Neuro-engineering
+Photonics: optical engineering and systems
+Point-of-care diagnostics
+Quantum optics, cryptography, information, and computing"
+nikita,Nikita Borisov,"My research interests lie in the area of computer security and privacy, especially as applied to large-scale distributed systems. My current focus is on anonymity: analysis of existing anonymous systems and the design of new peer-to-peer anonymous networks. In this research I take a systems approach, with rigorous, quantitative metrics of anonymity and analysis with help from simulations. I also work on other privacy enhancing technologies, such as techniques for privacy-preserving data aggregation, as well as research into building reliable and secure peer-to-peer networks.","
+Fingerprinting of network traffic and endpoints
+Privacy-preserving data sharing
+Design and analysis of anonymous networks","
+Communication networks
+Computer networking
+Computer security, privacy, and information trust
+Cryptographic systems and protocols
+Distributed and peer-to-peer systems
+Operating systems
+Watermarking and information forensics","
+Cybersecurity and privacy
+Distributed computing and storage systems
+Sensing systems
+Smart grid and energy delivery
+Wearable and mobile computing"
+boses,Subhonmesh Bose,,,,
+ybresler,Yoram Bresler,"Yoram Bresler received the B.Sc.  (cum laude) and M.Sc. degrees from the Technion, Israel Institute of Technology, in 1974 and 1981 respectively, and the Ph.D degree from Stanford University, in 1986, all in Electrical Engineering.  In 1987 he joined the  University of Illinois at Urbana-Champaign, where he is  currently a GEBI Founder Professor of Engineering at the Departments of Electrical and Computer Engineering and of Bioengineering, and professor at the Coordinated Science Laboratory.   He is also President and Chief Technology Ocer at InstaRecon, Inc., a startup he founded to commercialize breakthrough technology for tomographic reconstruction developed in his academic research.  His current  research interests include multi-dimensional and statistical signal processing and their applications to inverse problems in imaging, and in particular compressed sensing and computed tomography, and machine learning in signal processing.   Dr. Bresler has served on the editorial board of several journals, including the IEEE Transactions on Signal Processing, the IEEE Journal on Selected Topics in Signal Processing, Machine Vision and Applications, and the SIAM Journal on Imaging Science. He has also served on various committees of the IEEE, including the Image and Multidimensional Signal Processing Technical Committee, Biomaging and Signal Processing Technical Committee, and the Awards Board of the IEEE Signal Processing Society.    Dr. Bresler  received two Best Journal Paper Awards from the IEEE Signal Processing society, and two paper he coauthored with his students received the Young Author Best Paper Award from the same society in 2002 and in 2016.  He is the recipient of a 1991 NSF Presidential Young Investigator  Award, the Technion (Israel Inst. of Technology) Fellowship in 1995, and the Xerox Senior Award for Faculty Research in 1998. He was named a University of Illinois Scholar in 1999, appointed as an Associate at the Center for Advanced Study of the University in 2001-2, and Faculty Fellow at the National Cener for Supercomputing Applications (NCSA) in 2006. He is a Fellow of the IEEE and of the American Institute for Medical and Biomedical Engineers (AIMBE).  My teaching focuses on signal processing at both the undergraduate and graduate level. I regularly teach ECE310 -- introduction to DSP, ECE311 - Intro to DSP Lab,  and ECE 513 -- Vector Space Signal Processing. My current research addresses five main areas: 1) Practical Compressive Sensing. This work addresses the development of theory and methods for sampling signals at less than the Nyquist rate, by using sparsity properties of their representation with respect to an appropriate basis, or in an appropriate space. Applications are being developed in magnetic resonance imaging (MRI) and in computed tomography (CT). 2)Statistical and Machine Learning for Sparse Signal Representation and Compressive Sensing. New methods of learning efficient signal representations from data are being developed and applied to compressive sensing. Learning the models from the sensed data itself provides substantial reduction in the amount of data needed for high-quality reconstruction. The application to Big Data is a recent area of emphasis in this work, which now addresses the development of scalable and on-line algorithms. 3) Statistical and Machine Learning (including deep neural networks) for inverse problems in imaging. 4) Study of fundamental performance bounds and the development of computationally efficient algorithms with provable guaranteed performance for bilinear inverse problems with sparsity constraints. These problems are more difficult than linear inverse problems, and much less is known about their theory. Yet, they arise in many engineering and scientific applications, including the classical problem of blind deconvolution. 5) Signal processing for Big Data, and in particular for mutlidimensional (tensor) data, with applications in brain imaging and neuroscience.","
+Biomedical imaging systems,  inverse problems, compressed sensing, sparse representations, machine learning, big data, Statistical signal and image processing","
+Biomedical imaging
+Computed imaging systems
+Image, video, and multimedia processing and compression
+Machine learning
+Machine learning and pattern recognition
+Signal detection and estimation
+Signal Processing","
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Imaging science and systems
+Machine learning
+Medical imaging
+Sensing systems"
+cangella,Andreas C Cangellaris,,,,
+dchen,Deming Chen,,,,
+ywchen,Yuting Wu Chen,,,,
+zcheng1,Zuofu Cheng,,,"
+Acoustics",
+w-chew,Weng Cho Chew,"W.C. Chew received all his degrees from MIT.   His research interests are in wave physics, specializing in fast algorithms for multiple scattering imaging and computational electromagnetics in the last 30 years.  His recent research interest is in combining quantum theory with electromagnetics, and differential geometry with computational electromagnetics.  After MIT, he joined Schlumberger-Doll Research in 1981.  In 1985, he joined U Illinois Urbana-Champaign, where he was then the director of the Electromagnetics Lab from 1995-2007.  During 2000-2005, he was the Founder Professor, 2005-2009 the YT Lo Chair Professor, and since 2013 the Fisher Distinguished Professor.  During 2007-2011, he was the Dean of Engineering at The University of Hong Kong.   He has co-authored three books, many lecture notes, over 400 journal papers, and over 600 conference papers.  He is a fellow of various societies, and an ISI highly cited author.   In 2000, he received the IEEE Graduate Teaching Award, in 2001, the AP-S Schelkunoff Best Paper Award, in 2008, he received the IEEE AP-S CT Tai Distinguished Educator Award, in 2013, elected to the National Academy of Engineering, and in 2015 received the ACES Computational Electromagnetics Award.  He is selected to receive the 2017 IEEE Electromagnetics Award, and will be the next IEEE AP-S President in 2018.  He has international collaboration with The U of Hong Kong, and participates actively in the inter-disciplinary Area of Excellence Project on Theory, Modeling, and Simulation of Emerging Electronics supported by the Hong Kong government. Prof. Chew teaches undergraduate courses and graduate courses.  Throughout his career at UIUC, he has taught a large variety of undergraduate courses, ranging from electrical machinery, linear systems, electronic devices, electromagnetic fields and waves, to quantum mechanics for electrical engineers. He also teaches graduate courses in fundamental electromagnetics, waves and fields in inhomogeneous media, and theory of microwave and optical waveguides.  He seeks to explain difficult concepts in a simple way so that one can obtain good physical insight from the complicated mathematics.  He often supplements his lectures with supplementary lecture notes.  He believes in the adages, ""Once the mind is stretched, it does not regain its original dimension,"" and, ""If you can't explain something simply, you don't really understand it.""  He is the winner of IEEE Graduate Teaching Award, the UIUC Campus Award for Excellence in Graduate and Professional Teaching, and IEEE AP Chen-To Tai Distinguised Educator Award.
+Prof. Chew's research interest is in computational electromagnetics and fast computational algorithms for solving electromagnetic scattering and multiphysics problems. His recent research interest is in adding quantum effects and multi-physics concepts to computational works. This includes developing models for solar cells, nano-electronics, quantum transport, and Casimir force. He also studies computational methods to solve the multi-scale problem in computer chip and circuit design. He works with the Area of Excellence Project at The University of Hong Kong on ""Theory, Modeling, and Simulation of Emerging Electronics"".
+
+His past areas of research interest have been in wave propagation, scattering, inverse scattering, complex boundary value problems for microstrip circuits, and inhomogeneous media for geophysical subsurface sensing, nondestructive testing applications.  Previously, he has designed experiments with his graduate students to demonstrate the super-resolution phenomena of nonlinear inverse scattering. Working with his group and NCSA in year 2004, they have solved record-size electromagnetic scattering problems with 20 million unknowns using fast algorithms and matrix-free methods. He is the originator of several fast algorithms for solving electromagnetics scattering and inverse problems, and has authored a book, Waves and Fields in Inhomogeneous Media, and coauthored two books, Fast and Efficient Algorithms in Computational Electromagnetics and Integral Equation Methods for Electromagnetic and Elastic Waves, in addition to more than 300 scientific journal articles and 400 conference papers, several patents, book chapters, and many lecture notes.
+ Prof. Chew welcomes undergraduates to work in his research group.","
+Casimir force calculation, solar cells, nano-electronics, quantum effects in optics and electromagnetics, and nano-optics
+Inverse scattering, computational imaging, and physics-based signal processing
+Parallelization of fast algorithms
+Electromagnetics, wave propagation in inhomogeneous media, microwave   integrated circuits, microstrip antennas, and fast algorithms for radar scattering, low frequency electromagnetics, layered media, and left-handed materials.","
+Biomedical Imaging, Bioengineering, and Acoustics
+Electromagnetic theory
+Electromagnetics and Optics
+Nanotechnology",
+hyungsoo,Hyungsoo Choi,"Synthesis and development of tailored organometallic, inorganic and polymeric precursors to deposit nanostructured materials, such as thin films, nanoparticles and nanowires of metals and ceramics, and micro and nano-spheres of biomaterials, via sol-gel processing, flow-limited field emission electrostatic spray (FFESS) deposition, and chemical vapor deposition (CVD) for various devices such as display devices, solar cells, and metamaterials, and via chemical solution method and precision particle fabrication (PPF) technology for advanced drug delivery and cell therapy, including pancreatic islet encapsulation for type I diabetes treatment.","
+Electronic and optical materials:
+electronic, optical and magnetic materials for various devices involving thin films, micro and nano particles, and nanowires/tubes of metals, and metal nitrides and oxides utilizing their electronic, optical, optoelectronic, and magnetic properties.
+Thin film and nanoparticle fabrication:
+Thin films, micro and nano particles, and nanowires/tubes via sol-gel processing, charged liquid cluster beam (CLCB) deposition, chemical vapor deposition (CVD), chemical solution deposition (CSD), and precision particle fabrication (PPF) technology.
+Precursors for Nanoscale materials synthesis:
+Syntheses and development of tailored organometallic, inorganic and polymeric precursors
+Bio-materials:
+micro and nano spheres/capsules of biodegradable/compatible materials for imaging, advance drug delivery, and cell therapy.","
+Bionanotechnology
+Nano-materials
+Semiconductor materials
+Sensors","
+Charge particle physics and engineering
+Nanomedicine and bio-nanotechnology
+Semiconductor devices and manufacturing
+Solar and renewable technology"
+choquett,Kent D Choquette,"Kent D. Choquette received B.S. degrees in Engineering Physics and Applied Mathematics from the University of Colorado-Boulder and the M.S. and Ph.D. degrees in Materials Science from the University of Wisconsin-Madison.  From 1990 to 1992 he held a postdoctoral appointment at AT&T Bell Laboratories, Murray Hill, NJ. He then joined Sandia National Laboratories in Albuquerque, NM, and from 1993 to 2000 was a Principal Member of Technical Staff.  While at Sandia in 1994 he invented and demonstrated the first monolithic selectively oxidized vertical cavity surface emitting laser (VCSEL) which today is referred to as the oxide-confined VCSEL, which toay is manufactured around the world and over a billion have been deployed in data communication and sensing applications. He became a Professor in the Electrical and Computer Engineering Department at the University of Illinois in 2000.  His Photonic Device Research Group is centered around the design, fabrication, characterization, and applications of vertical cavity surface-emitting lasers (VCSELs), photonic crystal light sources, nanofabrication technologies, and hybrid integration techniques for photonic devices.  Dr. Choquette has authored over 300 technical publications and three book chapters, and has presented numerous invited talks and tutorials.  He is an Associate Editor of the Journal of Lightwave Technology, and served in the past as Associate Editor of IEEE Journal of Quantum Electronics, and IEEE Photonic Technology Letters, and as a Guest Editor of IEEE Journal of Selected Topics in Quantum Electronics.  From 2000 to 2002, he was an IEEE/Lasers and Electro-Optics Society (LEOS) Distinguished Lecturer.  He was awarded the 2008 IEEE/Photonics Society Engineering Achievement Award, the 2012 Nick Holonyak, Jr. Award from the Optical Society of America, the 2013 Distinguished Service Award from the IEEE Photonics Society, and the 2016 Technology Achievement Award from SPIE. He has served as the IEEE Photonics Society Vice President of Conferences, Vice President of Technical Affairs, President Elect, and in 2016-2017 he will serve as the President. He is a Fellow of the IEEE, a Fellow of the Optical Society of America, a Fellow of SPIE, and a Fellow of the American Association for the Advancement of Science. The among the reasons that I joined the University of Illinois, after spending 10 years at Bell Laboratories and Sandia National Laboratories, is the opportunity to teach the next generation of scientists and engineers, and the personal challenge and freedom to learn new areas of science and technology.  I teach undergraduate courses covering the physics and fabrication of solid state devices.  In particular, I teach a new introduction course on photonics and its applications in digital information distribution (ECE304), as well as a hands-on photonics lab where students can work with and learn about gas, semiconductor, and fiber lasers (ECE495).  I also teach three graduate courses, an introduction to compound semiconductors and semiconductor lasers (ECE532); a graduate course which I created that covers quantum optoelectronics and microcavity lasers, where students learn applied quantum mechanics and quantum optics (ECE572); and a graduate course which I created that covers the interaction of light with matter on the nanoscale (ECE574). The Photonic device research group is involved in the study of semiconductor photonic and optoelectronic device physics, fabrication technologies, and systems with a strong emphasis on vertical cavity surface emitting lasers (VCSELs). Photonic devices are key components for the infrastructure of the Information Age. Active devices, such as VCSELs, are the foundation for short and soon medium length optical fiber based interconnect applications. Currently there are research efforts to develop new VCSEL devices, such as composite resonator VCSELs and vertical cavity photonic integrated circuits, as well as to establish new VCSEL applications, such as 2-dimensional source and receiver arrays for high aggregate rate interconnects.  Group research into new compound semiconductor processing technologies, such as selective oxidation and heterogeneous integration techniques is also pursued. Finally, the next generation of photonic devices, such as photonic crystal membrane lasers, waveguides and nanocavities, which will enable the next generation of quantum optic communication networks, as well as opto-fluidic microsystems for lab-on-the-chip sensing and health care are under under study. The Photonic device research group is involved in the study of semiconductor photonic and optoelectronic device physics, fabrication technologies, and systems with a strong emphasis on vertical cavity surface emitting lasers (VCSELs). Photonic devices are key components for the infrastructure of the Information Age. Active devices, such as VCSELs, are the foundation for short and soon medium length optical fiber based interconnect applications. Currently there are research efforts to develop new VCSEL devices, such as composite resonator VCSELs and vertical cavity photonic integrated circuits, as well as to establish new VCSEL applications, such as 2-dimensional source and receiver arrays for high aggregate rate interconnects.  Group research into new compound semiconductor processing technologies, such as selective oxidation and heterogeneous integration techniques is also pursued. Finally, the next generation of photonic devices, such as photonic crystal membrane lasers, waveguides and nanocavities, which will enable the next generation of quantum optic communication networks, as well as opto-fluidic microsystems for lab-on-the-chip sensing and health care are under under study. Undergraduate student researchers should have completed a introduction course on photonics, such as ECE304, ECE455, or ECE495 and have interest in experimental laboratory activities.","
+Vertical cavity surface emitting lasers (VCSELs)
+micro-cavity and nano-cavity lasers
+PIN and avalanche photodetectors
+optoelectronic devices
+photonic crystals
+heterogenous integration technologies
+nano-processing semiconductor fabrication
+high bandwidth communication systems
+optical sensing applications including medical and environmental sensing","
+Coherent optics/imaging
+Communications
+Computational electromagnetics
+Electromagnetics and Optics
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Modeling and simulation of laser systems
+Nano-electro mechanical systems (NEMS)
+Nano-materials
+Nano-photonics
+Nanotechnology
+Optical communications
+Photonic crystals
+Photonic integrated circuits (PICs)
+Quantum nanostructures for electronics and photonics
+Radar and LIDAR
+Remote Sensing
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors
+Sprintronics","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+Semiconductor devices and manufacturing
+Solar and renewable technology"
+bcunning,Brian T Cunningham,"  My research group is focused on the application of sub-wavelength optical phenomena and fabrication methods to the development of novel devices and instrumentation for the life sciences.   The group is highly interdisciplinary, with expertise in the areas of microfabrication, nanotechnology, computer simulation, instrumentation, molecular biology, and cell biology.  In particular, we are working on biosensors based upon photonic crystal concepts that can either be built from low-cost flexible plastic materials, or integrated with semiconductor-based active devices, such as light sources and photodetectors, for high performance integrated detection systems.    Using a combination of micrometer-scale and nanometer-scale fabrication tools, we are devising novel methods and materials for producing electro-optic devices with nanometer-scale features that can be scaled for low-cost manufacturing.  Many of our techniques are geared for compatibility with flexible plastic materials, leading to applications such as low cost disposable sensors, wearable sensors, flexible electronics, and flexible displays. Because our structures manipulate light at a scale that is smaller than an optical wavelength, we rely on computer simulation tools such as Rigorous Coupled Wave Analysis (RCWA) and Finite Difference Time Doman (FDTD) to model, design, and understand optical phenomena within photonic crystals and related devices.   In addition to fabricating devices, our group is also focused on the design, prototyping, and testing of biosensor instrumentation for high sensitivity, portability, and resolution.  Advanced instruments enable high resolution imaging of biochemical and cellular interactions with the ability to monitor images of biochemical interactions as a function of time. Using the sensors and instrumentation, we are exploring new applications for optical biosensor technology including protein microarrays, biosensor/mass spectrometry systems, and microfluidics-based assays using nanoliter quantities of reagents.  The methods and systems developed in the laboratory are applied in the fields of life science research, drug discovery, diagnostic testing, and environmental monitoring.","
+Sensor design and instrumentation
+Finite Difference Time Domain Analysis
+Nanofabrication
+Photonic Crystals
+Optical Biosensors","
+Nanomedicine and Bionanotechnology
+Optoelectronics and Nanophotonics",
+jdallesa,John Michael Dallesasse,"Prof. Dallesasse has over 20 years of experience in the Optoelectronics Industry, and has held a wide range of positions in technology development and management, including Vice President of MicroLink Devices and Senior Director of Engineering and Technology for Emcores Fiber Optics Division.  Most recently, he was the Chief Technology Officer, Vice President, and co-founder of Skorpios Technologies, Inc., a venture-capital funded startup that is developing and commercializing silicon photonic ICs based upon a wafer-scale process for selective integration of III-V materials on SOI substrates.  His technical contributions include, with Nick Holonyak, Jr., the discovery of III V Oxidation, which has become an important process technology in the fabrication of high-speed VCSELs.  Prof. Dallesasse has also been an active participant in the IEEE 802.3 standards effort, and was an important contributor in the definition of the 10GBASE-LX4 port type for use with installed legacy multimode fiber. A key attraction of making the transition from a successful career in industry to an academic position is the ability to pass on years of accumulated experience to a new generation.  Through the course of my career I have had the ability to mentor many young engineers, helping them grow both personally and professionally.  This has been one of my greatest sources of satisfaction, and a key motivation for my career growth into engineering management.  There is tremendous satisfaction in seeing a spark of insight turn into a flame of knowledge.  Making a positive impact on the lives of others through helping them learn and then seeing the contributions that they, in turn, are able to make provides a fulfillment that cannot be measured. Photonic integration is a necessity for next-generation optical networks.  As the number of applications that demand significant bandwidth increase, the ability of existing networks to serve those needs is compromised.  Solutions that enable the existing fiber infrastructure to carry more data, such as advanced optical modulation formats based upon phase-shift-keying and polarization multiplexing, require complex optical transmitters and coherent optical receivers assembled using discrete components.  These solutions are too expensive for broad deployment, and face fundamental challenges in reducing system cost.  The most promising approach to overcoming these challenges is photonic integration.  Both Silicon Photonics and Monolithic Integration on InP face fundamental challenges.  Silicon is an outstanding material for complex electronics and waveguides, but its indirect bandgap and weak nonlinear optical properties create challenges with regard to the generation, efficient detection, and active control of light.  Compound semiconductor materials, especially those that are lattice matched to InP or GaAs, are outstanding materials for these functions but are costly and not ideal for the fabrication of complex electronics, especially ICs such as network processors.  Past attempts to bring these materials together have not progressed past the R&D stage due to limitations in performance, reliability, or manufacturability.  Direct epitaxial growth of GaAs or InP on silicon faces the problem of having a high defect-density metamorphic layer that can impact device reliability.  Wafer bonding techniques, which have been successfully employed in the LED area as well as in the fabrication of SOI wafers, show promise but also face challenges.  Direct bonding at high temperature creates significant stress, as the thermal expansion coefficients of Si and III-Vs are not well matched.  This stress has an unacceptable impact on device reliability.  Lower-temperature bonding techniques using plasma activation, chemical treatment, or atomically thin interface layers show promise but require further development.  An integration approach that recognizes and addresses material compatibility issues and manufacturability should be able to overcome prior barriers to commercialization and enable broad deployment of photonic integrated circuits.  What to integrate is also a key area of interest.  Recent progress on the Feng-Holonyak Transistor Laser suggests that it may be able to serve as a fundamental device element in photonic-electronic integrated circuits, but further research on device integration is required. The Advanced Semiconductor Device and Integration Group welcomes the participation of undergraduates in the research process through independent study projects, undergraduate thesis projects, and through information working relationships.  A limited number of slots are available, but interested individuals are encouraged to contact Professor Dallesasse or one of his graduate students.","
+Transistor Lasers and Light Emitting Transistors
+Compound Semiconductor Materials
+Compound Semiconductor Devices
+Photonic Integration & Silicon Photonics","
+Gallium nitride power semiconductors
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Microwave devices and circuits
+Microwave integrated circuits
+Millimeter wave integrated circuits
+Nano-materials
+Nano-photonics
+Nanotechnology
+Optical communications
+Photonic crystals
+Photonic integrated circuits (PICs)
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors","
+Beyond CMOS
+Electronics, Plasmonics, and Photonics
+Photonics: optical engineering and systems
+Semiconductor devices and manufacturing"
+minhdo,Minh N Do,"Minh N. Do received the B.Eng. degree in Computer Engineering from the University of Canberra, Australia, in 1997, and the Dr.Sci. degree in Communication Systems from the Swiss Federal Institute of Technology Lausanne (EPFL) in 2001.  Since 2002, he has been a Professor in the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC), and held joint appointments with the Coordinated Science Laboratory, Beckman Institute, Department of Bioengineering, and Department of Computer Science.  He received a Silver Medal from the 32nd International Mathematical Olympiad in 1991, University Medal from the University of Canberra in 1997, Doctorate Award from the EPFL in 2001, CAREER Award from the National Science Foundation in 2003,  Xerox Award for Faculty Research from UIUC in 2007, and Young Author Best Paper Award from IEEE in 2008.  He was an Associate Editor of the IEEE Transactions on Image Processing, and a member of several IEEE Technical Committees on Signal Processing.  He was elected as an IEEE Fellow in 2014 for his contributions to image representation and computational imaging.  He has contributed to several tech-transfer efforts, including as a co-founder and CTO of Personify and Chief Scientist of Misfit.","
+Data science
+Geometric vision
+Computational imaging
+Signal processing","
+Biomedical Imaging, Bioengineering, and Acoustics
+Communications
+Robotics, vision, and artificial intelligence
+Signal Processing","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Bioelectronics and Bioinformatics
+Cognitive computing
+Computational science and engineering
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Genomics
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging
+Point-of-care diagnostics
+Robotics
+Sensing systems
+Wearable and mobile computing"
+dokmanic,Ivan Dokmanic,,,,
+aledan,Alejandro Dominguez-Garcia,,"
+Microgrids
+Grid Data Analytics
+Reliability Analysis","
+Power and Energy Systems","
+Cyberinfrastructures
+Decision science
+Distributed computing and storage systems
+Energy
+Network science and engineering
+Smart grid and energy delivery
+Smart infrastructures
+Solar and renewable technology"
+p-dragic,Peter D Dragic,"Optical fibers are ubiquitous, finding wide-reaching applications that enable the modern world.  Most importantly, their remarkably low loss has facilitated long-distance telecommunications. Indeed, in late 2017, Corning (as but one of a few large fiber manufacturers) celebrated the delivery of its 1 billionth kilometer of optical fiber, nearly the distance from the Earth to Saturn. Every cell phone conversation or text message propagates along a fiber at some point in its journey. Optical fibers are doped with additives making them attractive active gain media for high power lasers, a market (fiber-based lasers, or fiber lasers) expected to surpass $4 billion by 2025. They are used in imaging systems as endoscopes and as laser power delivery conduits for dental and medical procedures. They are used as the active sensors in sensing systems, enabling the remote and distributed measurement of undersea weather, structural health, and temperature, to name just a few.   Fibers performance, however, has reached a sort of plateau, with limitations typically deriving from a bouquet of deleterious nonlinear light-matter interactions between the lightwave and the glass. These usually take the form of a maximum allowable optical power (or rather intensity), either that can be propagated through or produced from an optical fiber. This has inspired a new thrust in specialty fiber design that is largely rooted in conventional wave propagation methodologies. Unfortunately, the vast majority of these waveguide designs offer only incremental improvements to the systems utilizing them since they only enable very slight increases in the maximum allowable power. Consider, for instance, a Poisson-dominated, shot-noise-limited sensing system based on a fiber laser, operating at, or near to, its nonlinearity-restricted upper power limit. Should there be a requirement of a 10 dB enhancement in system signal-to-noise ratio (SNR), this would then require a 20 dB (or 100) increase in laser power/pulse energy to be realized. Such technological leaps are not possible with the current state-of-the art in waveguide design. My research and design methodology of optical fibers relies heavily on a highly interdisciplinary approach that marries waveguide engineering and materials science. We owe many of the amazing capabilities of optical fiber to the pioneering work of materials scientists, whose efforts resulted in the mass-production of the low-loss optical fibers which connect our modern world.  Soon after the development of the first low loss fiber in the 1970s, waveguide designers were inspired to develop a wide range of fiber structures that enhance the capabilities of fiber-based systems. Well-known examples include dispersion shifted and tailored fibers, polarization maintaining fibers, and holey (or micro- and nano-structured) fibers, to name a few.  As such, optical waveguide design (predominantly utilizing silica as the material medium) has traditionally driven most, but not all, advancement in the field of optical fiber technology, with the materials science aspects becoming largely relegated to small niche applications. Today, this practice continues, and hence fiber and fiber laser development now advances only incrementally. It is precisely this apparent technological stagnation that has inspired my team and I to recognize that materials science can help solve many of the challenges and limitations which waveguide design alone could not. Once we recognized that the aforementioned deleterious phenomena in optical fiber systems relate to a controllable material constant or coefficient, many of which can take on zero- or near-zero-values, it became clear that the performance limiters can be removed simply by prohibiting the unwanted interaction from ever taking place.  In short, we have learned how to design these materials systems to achieve optical performance never before seen from optical fibers. This is accomplished through the zeroing or minimization of the material constants that drive the unwanted deleterious processes. Our current research brings materials science back into the mainstream of fiber design by engineering fibers that that have the potential for disruptive influence. Only by coupling materials science and engineering with electromagnetics will optical fiber capabilities sharply improve in the next decade. This will enable the incredible potential of optical fiber based systems, some of which I am actively pursuing: spectroscopic and coherent lidar systems, high power fiber laser technologies, and communications systems.  Our work has also led to designer fibers with unique thermo-mechanical responses that give rise to new distributed sensing architectures. It is important to note that our work also extends other material systems, including crystalline, for next generation applications that rely heavily on these nonlinear processes, such as integrated optical and photonic circuits. The emerging technological renaissance in fibers systems is manifested in my publications and patents.   Three specific examples of current multidisciplinary projects include: 1)	Hypersonic acoustic wave engineering of glass optical fiber 2)	Bridging a gap between next generation laser sources and active sensing systems such as LIDAR 3)	Designing glasses and optical materials for novel optical fiber and waveguide applications including distributed sensing",,"
+Coherent optics/imaging
+Lasers and optical physics
+Modeling and simulation of laser systems
+Nano-materials
+Nano-photonics
+Optical communications
+Photonic crystals
+Photonic integrated circuits (PICs)
+Radar and LIDAR
+Radio and optical wave propagation
+Remote Sensing
+Semiconductor lasers and photonic devices","
+Electronics, Plasmonics, and Photonics
+Photonics: optical engineering and systems
+Sensing systems"
+jgeden,J. Gary Eden,"J. Gary Eden received the Ph.D. degree in Electrical Engineering from the University of Illinois, Urbana, in 1976 and was appointed a National Research Council Postdoctoral Research Associate at the U.S. Naval Research Laboratory (Washington, DC). As a research physicist in the Laser Physics Branch (Optical Sciences Division) of NRL from 1976 to 1979, he made several contributions to the area of visible and ultraviolet lasers and laser spectroscopy, including the co-discovery of the KrCl rare gas-halide excimer laser, and received a Research Publication Award (1979) for his work at NRL in which he co-discovered the proton beam pumped laser (Ar-N2, XeF). Since joining the faculty of the University of Illinois in 1979, he has been engaged in research in atomic, molecular and ultrafast laser spectroscopy, the discovery and development of ultraviolet lasers and lamps, and the science and technology of microcavity plasma devices. He has served as Assistant Dean in the College of Engineering, Associate Dean of the Graduate College, and Associate Vice-Chancellor for Research.  Currently, he is the Gilmore Family Professor in the Department of Electrical and Computer Engineering and Director of the Laboratory for Optical Physics and Engineering, as well as Research Professor in the Coordinated Science Laboratory, and the Micro and Nanotechnology Laboratory. He also holds faculty affiliate appointments with the Departments of Bioengineering, Materials Science and Engineering, and Nuclear, Plasma, and Radiological Engineering. Dr. Eden has authored more than 295 refereed, archival publications and 82 awarded patents, is a member of four honorary organizations, and is a Fellow of the IEEE, the Optical Society of America, the American Physical Society, the American Association for the Advancement of Science (AAAS), and the SPIE. He has served as Editor-in-Chief of the IEEE Journal of Quantum Electronics, and Editor-in-Chief of Progress in Quantum Electronics. He is also an Associate Editor of Applied Physics Reviews.  In 1998, he served as President of the IEEE Lasers and Electro-Optics Society (LEOS), following earlier service as a member of the LEOS Board of Governors, and as the Vice-President for Technical Affairs. Dr. Eden received the LEOS Distinguished Service Award, was awarded the IEEE Third Millennium Medal in 2000 and was named a LEOS Distinguished Lecturer for 2003-2005. Between 2015 and 2017, he also served as a Distinguished Lecturer for the American Physical Society Division of Plasma Physics. From 1996 through 1999, he was the James F. Towey University Scholar at the University of Illinois. In 2005, he received the IEEE/LEOS Aron Kressel Award. He was awarded the C.E.K. Mees Medal of the Optical Society of America in 2007, and was the recipient of the Fulbright-Israel Distinguished Chair in the Natural Sciences and Engineering for 2007-2008.  He is a co-founder of Eden Park Illumination (2007) and EP Purification (2010), and was named the recipient of the Harold E. Edgerton Award of SPIE for 2010. He has directed the dissertations of 49 individuals who received the Ph.D. degree in Electrical and Computer Engineering, Physics, or Materials Science and Engineering. His 50th, 51st, and 52nd Ph.D. students will graduate in 2017. In 2014, he was elected into the National Academy of Engineering, and the National Academy of Inventors and recently he received the Distinguished Alumnus Award from the Department of Electrical and Computer Engineering at the University of Maryland. Professor Eden is Director of the Laboratory for Optical Physics and Engineering, a laboratory devoted to the study and applications of the interaction of visible and ultraviolet radiation with matter.The laboratory has discovered more than a dozen lasers or amplifiers in the ultraviolet, visible, and near-infrared, including the first ultraviolet and violet fiber lasers, atomic lasers pumped by the photoexcitation of atomic collision pairs, and the Cd and Zn-halide diatomic systems.With his students, Professor Eden has demonstrated several powerful laser spectroscopic techniques that have resulted in the discovery of (for example) Rydberg series in the rare gas dimer molecules, the first observation of excitation spectra for the photoassociation of thermal atom pairs, and three body photoassociation.In the ultrafast domain (npn plasma bipolar junction transistor.Dr. Eden has authored more than 280 journal publications and 66 awarded patents.His is a co-founder of Eden Park Illumination and EP Purification.","
+Laser Magnetometry
+Microcavity Plasmas and Optical/Electronic Devices
+Ultrafast Science
+Optical Physics in the Visible and Ultraviolet
+Laser Spectroscopy and Photochemistry","
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Modeling and simulation of laser systems
+Plasma devices and plasma science
+Ultrafast laser spectroscopy
+Ultraviolet photophysics",
+afliflet,Arne  Fliflet,"Arne W. Fliflet received the B.Sc. degree from Duke University, Durham, NC, in 1970, and the Ph.D. degree from the University of Virginia, Charlotte, VA, in 1975, both in physics. His dissertation was on the application of many body perturbation theory to atomic photoionization. As a Research Fellow at Caltech from 1975 to 1979, he developed theoretical approaches to low-energy electron-molecule scattering.  In 1979 he joined a small consulting firm, B-K Dynamics, Inc., in Rockville, MD. At B-K Dynamics, he was involved with some of the first gyrotron research conducted in the United States, including the development of theoretical models and computer codes used in gyrotron design. In 1982, he joined the Naval Research Laboratory (NRL) as a Research Physicist in the Plasma Physics Division. At NRL he conducted theoretical and experimental research on gyrotrons, related high power coherent millimeter-wave radiation sources, and gyrotron applications. For many years he served as the head of the Particle and Radiation Beam Generation Section. His areas of research included: gyrotrons for tokamak plasma heating, relativistic gyrotrons, cyclotron auto-resonance masers, quasi-optical gyrotrons, magnicons, near-terahertz, higher-harmonic gyrotrons, microwave processing of materials, and millimeter-wave cloud radars.  In 2014 he joined the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign where he serves as a Lecturer. He has authored or coauthored over 100 papers and holds seven patents. Dr. Fliflet is a Fellow of the American Physical Society and a Senior Member and Life Member of IEEE. Dr. Fliflet has taught mid-level courses in the ECE Department including ECE 210 Analog Signal Processing, ECE 329 Fields and Waves I, ECE 330 Power Circuits and Electromerchanics, and ECE 445 Senior Design Laboratory. Current research area is terahertz gyrotrons. Currently assisting the US Naval Research Laboratory conduct a 550 GHz, 10 kW, second-harmonic gyrotron experiment. Designed a 60 kV, 4A electron gun for this experiment to be fabricated by Communications and Power Industries, Inc.","
+Radar investigation of clouds
+Microwave processing of materials
+Terahertz gyrotron oscillators and amplifiers
+High power vacuum electronics","
+Atmospheric and ionospheric measurements
+Computational electromagnetics
+Lasers and optical physics
+Microwave devices and circuits
+Modeling and simulation of laser systems
+Radar and LIDAR","
+Charge particle physics and engineering
+RF and microwave engineering"
+gaol,Liang Gao,,,,
+matthewg,Matthew Gilbert,"My group is concerned with primarily with theoretically elucidating new phenomena in emergent condensed matter systems with the goal of developing new types of nanoelectronic devices and functionality. As a corollary, we also develop new computational techniques to study and classify these new systems. Here I outline the current interests of my research group - Nanoelectronics and Low Dimensional Systems - Strongly Correlated Systems - Topological Phenomena - Quantum Computing","
+Topological Insulators and Phenomena
+Quantum Computing
+Strongly Correlated Systems
+Quantum Transport Theory","
+Computational nanotechnology
+Device modeling
+Nano-materials
+Nano-photonics
+Nanotechnology
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Sprintronics","
+Beyond CMOS
+Charge particle physics and engineering
+Electronics, Plasmonics, and Photonics
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+RF and microwave engineering
+Semiconductor devices and manufacturing
+Storage and conversion"
+lgoddard,Lynford L Goddard,"In fall 2019, I plan to teach, ECE 446, ""Principles of Experimental Research in Electrical Engineering"". In spring 2020, I plan to teach, ECE 536, ""Integrated Optics and Optoelectronics"" and/or ECE 329, ""Fields and Waves I"". My research group, the Photonic Systems Laboratory, studies the ways that light, and lasers in particular, can be used for sensing and measurement, communications, and data processing. The research focuses on fabricating, characterizing, and modeling individual lasers and photodetectors, photonics-based sensors, instrumentation, and integrated circuits, as well as developing new processing, inspection, and characterization techniques, and testing novel semiconductor materials and devices. Applications include hydrogen detection for fuel cells, carbon dioxide detection for reducing post harvest food loss, optical spectrum analysis and quantitative phase microscopy for metrology, integrated microring Bragg reflectors for narrow linewidth lasers and next generation chip-scale communication systems, and optical logic, memory and switches for high speed data processing. 1. The Photonic Systems Laboratory is accepting applications for undergraduate students interested in completing a senior research thesis in AY 2018-2019. The student must have a solid academic record and be self motivated, eager to test out new measurement or simulation techniques, and able to commit the time and effort during the academic year necessary to complete the thesis (usually >10 hours per week). Programming skills in LabVIEW or Matlab, or prior research experience or coursework in Optics would be a definite plus. Interested applicants should email an updated resume to Professor Goddard. 2. The group is also looking for an undergraduate student (at any grade level) who has taken ECE 444 to develop processing recipes for microring fabrication in MNTL. The student would also assist with photolithography, etching, and measuring the optical loss of the resulting devices.","
+Optoelectronics
+Photonics-based Sensors
+Photonics-based Metrology and Instrumentation
+Microscopy for Material Science
+Computational Electromagnetics for Photonics
+Semiconductor Lasers, Modulators, and Detectors
+Low Loss Semiconductor/Dielectric Waveguides and Interconnects
+Materials Characterization
+Nanofabrication and Novel Semiconductor Processing
+Photonic Integrated Circuits
+All-optical Data Processing Systems
+Nano and Micro Opto-Electro-Mechanical Systems (NOEMS/MOEMS)
+Semiconductor Band Structure Modeling","
+Coherent optics/imaging
+Computational electromagnetics
+Device modeling
+Electromagnetics and Optics
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Modeling and simulation of laser systems
+Nano-photonics
+Nanotechnology
+Optical communications
+Photonic integrated circuits (PICs)
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors","
+Electronics, Plasmonics, and Photonics
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging
+Photonics: optical engineering and systems
+Semiconductor devices and manufacturing"
+songbin,Songbin Gong,,,,
+gross,George Gross,,"
+Large-scale system analysis and computing.
+Energy economics; effective bio-fuel applications for electricity
+Electricity planning and analysis; power system operations; competitive electricity markets and auction mechanisms; transmission services and pricing; ancillary services; congestion management; reliability and security assessment; integration of renewable, demand response and storage resources into the grid; battery vehicles and the grid issues; battery vehicle management, control, communications and cyber security topics; big data issues in power systems; data center electricity supply reliability economics and environmental issues; demand response resource analysis and evaluation; cyber-security for the power grid; energy policy and economics; energy sustainability; environmental aspects of power system planning and operations; microgrid analysis and implementatiob;and restructuring of the electricity business.","
+Algorithms and computational complexity
+Dynamics and stability of power systems
+Energy system economics and public policy
+Power and Energy Systems",
+vgruev,Viktor Gruev,,,,
+b-hajek,Bruce Hajek,,"
+Mathematical biology
+Game theory and mechanism design
+Optimization
+Wireless communication
+Stochastic analysis
+Communication networks","
+Communication networks
+Communications
+Control
+Dynamic games and decision theory
+Information theory
+Random processes
+Stochastic systems and control
+Wireless communication systems","
+Bioelectronics and Bioinformatics
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Game theory
+Genomics
+Machine learning
+Network science and engineering
+Socio-technical systems and networking"
+l-haken,Lippold Haken,"In Computer Music, I would like students to get an appreciation for computer music and its technology.  Since musicians and engineers live in quite different worlds, I would like engineering students to learn what it means to do ""serious"" interdisciplinary work with sound designers and musicians. In undergraduate teaching, I feel it is important to nurture ECE student pride in their ability to design and build working devices.  It is important for students to have enough time to implement their own ideas; it is good experience for students to learn how to select chips, how to design PCBs, how to design and debug software and dsp algorithms, how to work with the machine shop, etc.  Both guided learning in structured courses as well as independent project experience are important for our undergraduates. I encourage undergraduates that would like to do research towards designing and implementing devices to look into ECE395.  The primary goal of ECE395 is to build the device; you decide on all hardware components, PCB layout, software programming, motor control or any mechanical aspects you may have, etc.  If you develop novel algorithms or techniques you may optionally present your results at the Undergraduate Research Symposium, and optionally show your work at Engineering Open House.","
+Music technology for the blind.
+Music notation and representation.
+Real-time computer music systems.
+Analysis, synthesis, and processing of musical sounds.","
+Audio, speech, music and auditory processing",
+hanumolu,Pavan Kumar Hanumolu,,,"
+Circuits","
+Autonomous Systems and Artificial Intelligence
+Computational science and engineering
+Data/Information Science and Systems
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+RF and microwave engineering
+Sensing systems
+Storage and conversion
+Wearable and mobile computing"
+kharan,Kiruba Sivasubramaniam Haran,,,,
+jhasegaw, Mark Hasegawa-Johnson,"Mark Hasegawa-Johnson has been on the faculty at the University of Illinois since 1999, where he is currently a Professor of Electrical and Computer Engineering. He received his Ph.D. in 1996 at MIT, with a thesis titled ""Formant and Burst Spectral Measures with Quantitative Error Models for Speech Sound Classification,"" after which he was a post-doc at UCLA from 1996-1999. Prof. Hasegawa-Johnson is a Fellow of the Acoustical Society of America, and a Senior Member of IEEE and ACM. He is currently Treasurer of ISCA, and Senior Area Editor of the IEEE Transactions on Audio, Speech and Language. He has published 280 peer-reviewed journal articles and conference papers in the general area of automatic speech analysis, including machine learning models of articulatory and acoustic phonetics, prosody, dysarthria, non-speech acoustic events, audio source separation, and under-resourced languages. Professor Hasegawa-Johnson typically teaches Artificial Intelligence (CS 440/ECE 448), Multimedia Signal Processing (ECE 417), and Speech and Image Analysis (ECE 401). He has also taughtSpeech Processing (ECE 537), Digital Signal Processing (ECE 551), Audio Engineering (ECE 403), Pattern Recognition (ECE 544NA), and Probability (ECE 313). Dr. Hasegawa-Johnson's research is focused on the area of automatic speech recognition, with a particular focus on the mathematization of linguistic concepts. In the past five years, Dr. Hasegawa-Johnson's group has developed mathematical models of concepts from linguistics including a rudimentary model of pre-conscious speech perception (the landmark-based speech recognizer), a model that interprets pronunciation variability by figuring out how the talker planned his or her speech movements (tracking of tract variables from acoustics, and of gestures from tract variables), and a model that uses the stress and rhythm of natural language (prosody) to disambiguate confusable sentences. Recent application successes include: * Speech recognition for talkers with cerebral palsy.  The automatic system, suitably constrained, outperforms a human listener. * Retrieval of broadcast television segments in four languages, based on queries specified in the international phonetic alphabet.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took third place in this international competition, and was the only finalist from the United States. * Automatic detection and labeling of non-speech audio events.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took first place in this international competition. * Teaching Chinese.  Software and methods developed by Prof. Hasegawa-Johnson, together with his colleagues from Linguistics and Psychology, are being tested in Mandarin language classrooms at the University of Illinois. Professor Hasegawa-Johnson typically supervises one or two undergraduate research projects per year, thesis research preferred.  Past student theses include automatic recognition of musical genre, factorial HMMs for the automatic recognition of speech in music backgrounds, prosody-dependent speech recognition, image source modeling of room impulse response, sonorancy classification for automatic language ID, phonetic landmark detection for automatic language ID, and digital field recorder for acquisition of a natural audio database.","
+Acoustic phonetics, Audio signal processing and speech recognition, Speech and auditory physiology.","
+Acoustics
+Adaptive signal processing
+Biomedical imaging
+Computer vision and pattern recognition
+Image, video, and multimedia processing and compression
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Random processes
+Robotics and motion planning
+Signal detection and estimation
+Signal Processing
+Speech recognition and processing","
+Autonomous Systems and Artificial Intelligence
+Data science and analytics
+Data/Information Science and Systems"
+weihe16,Wei He,,,,
+hillmer,Philip Hillmer,,"
+Philosophical and Applied Ethics",,
+yihchun,Yih-Chun Hu,,,,
+w-hwu,Wen-mei Hwu,,"
+Architecture, microarchitecture, libraries, and programming tools for parallel cognitive computing systems.","
+Algorithms and computational complexity
+Biomedical imaging
+Cloud computing
+Compilers
+Computed imaging systems
+Computer architecture
+Logic design and VLSI
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Operating systems
+Parallel processing
+Programming languages","
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Cognitive computing
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging
+Smart infrastructures
+Speech, language, and audio processing"
+rkiyer,Ravishankar K Iyer,"Ravishankar K. Iyer is George and Ann Fisher Distinguished Professor of Engineering at the University of Illinois at Urbana-Champaign. He holds joint appointments in the Departments of Electrical and Computer Engineering and Computer Science, in the Coordinated Science Laboratory (CSL), the National Center for Supercomputing Applications, the Carle Illinois College of Medicine, and the Carl R. Woese Institute for Genomic Biology. He is also faculty Research Affiliate at the Mayo Clinic, and Yeoh Ghin Seng Distinguished Visiting Professor of the National University Health System, Singapore. Professor Iyer leads the DEPEND Group at CSL, with a multidisciplinary focus on systems and software that combine deep measurement driven analytics and machine learning with applications in two important domains: i) trust (that spans resilience and the security of critical infrastructures) and ii) health (that spans computational genomics and health analytics focused on personalized medicine). The Depend Group has developed a rich AI analytics framework that has been deployed on real-world applications in collaborations with industry, health providers, and government agencies including NSF, NIH, and DoD. Iyer directs the Illinois/Mayo NSF Center for Computational Biotechnology and Genomic Medicine (CCBGM).  Professor Iyer is a Fellow of the American Association for the Advancement of Science (AAAS), the Institute of Electrical and Electronics Engineers (IEEE), and the Association for Computing Machinery (ACM). He has received several awards, including the IEEE Emanuel R. Piore Award, and the 2011 Outstanding Contributions award by the Association of Computing Machinery. Professor Iyer is also the recipient of the degree of Doctor Honoris Causa from Toulouse Sabatier University in France.","
+Reliable and secure networks and systems, Measurement and modeling, dependability and security validation and benchmarking, data analytics, computing for genomics research.",,
+j-jin1,Jianming Jin,"Jian-Ming Jin received his Ph.D. degree in electrical engineering from the University of Michigan, Ann Arbor, in 1989. He joined the University of Illinois at Urbana-Champaign in 1993 and is currently the Y. T. Lo Endowed Chair Professor of Electrical and Computer Engineering and Director of the Electromagnetics Laboratory and Center for Computational Electromagnetics. He has authored and co-authored over 280 papers in refereed journals and 22 book chapters. He has also authored The Finite Element Method in Electromagnetics (Wiley, 1st edition 1993, 2nd edition 2002, 3rd edition 2014), Electromagnetic Analysis and Design in Magnetic Resonance Imaging (CRC, 1998), Theory and Computation of Electromagnetic Fields (Wiley, 1st edition 2010, 2nd edition 2015), and co-authored Computation of Special Functions (Wiley, 1996), Fast and Efficient Algorithms in Computational Electromagnetics (Artech, 2001), and Finite Element Analysis of Antennas and Arrays (Wiley, 2008). His current research interests include computational electromagnetics, multi-physics modeling, scattering and antenna analysis, electromagnetic compatibility, high-frequency circuit modeling and analysis, bioelectromagnetics, and magnetic resonance imaging. He was elected by ISI as one of the worlds most cited authors in 2002. Dr. Jin is a Fellow of the IEEE (elected 2001), the Electromagnetics Academy, and Applied Computational Electromagnetics Society (ACES), and a member of URSI Commission B. He was a recipient of the 1994 National Science Foundation Young Investigator Award, the 1995 Office of Naval Research Young Investigator Award, the 1999 ACES Valued Service Award, the 2014 ACES Technical Achievement Award, the 2015 IEEE AP-S Chen-To Tai Distinguished Educator Award, the 2016 ACES Computational Electromagnetics Award, and the 2017 IEEE AP-S Harrington-Mittra Computational Electromagnetics Award. He also received the 1997 Xerox Junior Research Award and the 2000 Xerox Senior Research Award presented by the College of Engineering, University of Illinois at Urbana-Champaign, and was appointed as the first Henry Magnuski Outstanding Young Scholar in the Department of Electrical and Computer Engineering in 1998 and later as a Sony Scholar in 2005. He was appointed as a Distinguished Visiting Professor in the Air Force Research Laboratory in 1999 and was awarded Adjunct, Visiting, Guest, or Chair Professorship by 12 institutions around the world. His name appeared 26 times in the University of Illinois at Urbana-Champaigns List of Excellent Instructors. His students have won the best paper awards in IEEE 16th Topical Meeting on Electrical Performance of Electronic Packaging and 25th, 27th, 31st, and 32nd Annual Review of Progress in Applied Computational Electromagnetics. In 2015, he received the IEEE Antennas and Propagation Edward E. Altschuler AP-S Magazine Prize Paper Award, and was appointed as the IEEE Antennas and Propagation Society Distinguished Lecturer.","
+Computational electromagnetics, multi-physics modeling, finite element methods, bioelectromagnetics (magnetic resonance imaging and electromagnetic hyperthermia), wave scattering and propagation, electromagnetic interference and compatibility, microwave and millimeter-wave circuits, optoelectronics and photonics, wireless communications, antennas and electromagnetic theory","
+Antennas for communication and wireless sensing
+Bioelectromagnetics
+Biomedical Imaging, Bioengineering, and Acoustics
+Electromagnetic compatibility
+Electromagnetic theory
+Electromagnetics and Optics
+Electronic packaging
+High-frequency circuits
+Microwave devices and circuits
+Microwave integrated circuits
+Millimeter wave integrated circuits
+Modeling and simulation of laser systems
+Photonic crystals
+Radar scattering
+Radio and optical wave propagation
+Semiconductor lasers and photonic devices","
+Computational science and engineering
+Electronics, Plasmonics, and Photonics
+Healthcare and medical technologies
+RF and microwave engineering"
+dl-jones,Douglas L Jones,"Douglas L. Jones received the BSEE, MSEE, and Ph.D. degrees from Rice University in 1983, 1986, and 1987, respectively. During the 1987-1988 academic year, he was at the University of Erlangen-Nuremberg in Germany on a Fulbright postdoctoral fellowship. Since 1988, he has been with the University of Illinois at Urbana-Champaign, where he is currently a Professor in Electrical and Computer Engineering, Neuroscience, the Coordinated Science Laboratory, and the Beckman Institute. He was on sabbatical leave at the University of Washington in Spring 1995 and at the University of California at Berkeley in Spring 2002. In the Spring semester of 1999 he served as the Texas Instruments Visiting Professor at Rice University. He is now serving as the Director of the Advanced Digital Sciences Centre (ADSC) Illinois at Singapore.  He is an author of two DSP laboratory textbooks, and was selected as the 2003 Connexions Author of the Year. He is a Fellow of the IEEE. He served on the Board of Governors of the IEEE Signal Processing Society from 2002-2004. His research interests are in digital signal processing, including nonstationary signal analysis, adaptive processing, multisensor data processing, OFDM, and various applications such as low-power implementations, biology and neuroengineering, and advanced hearing aids and other audio systems. Professor Jones teaches from the freshman to graduate levels in the general area of Electrical and Computer Engineering, with an emphasis on signal processing.  He is particularly interested in laboratory-based instruction, and has developed ECE 420: Digital Signal Processing Laboratory, the laboratory for ECE 210, and the laboratory-intensive ECE 101 general education course. He has also developed and taught a course in signal analysis for neuroscientists participating in an interdisciplinary Neuroengineering program and an interdisciplinary neuroengineering research course. Professor Jones is committed to enhancing engineering education world-wide, and has made his instructional texts for digital signal processing laboratory and advanced signal processing algorithms openly available for use and reuse through the Connexions open-source textbook project; they have been used at a number of universities and translated into several languages.","
+Neuro-engineering
+VLSI implementation of digital signal processing
+Biological applications of signal processing
+Multichannel estimation and denoising
+Signal Processing for MEMS
+Digital signal processing for hearing aids, audio, and acoustic applications
+Signal Processing for Communications
+Time-varying and Time-frequency Analysis
+Digital Signal Processing","
+Adaptive signal processing
+Audio, speech, music and auditory processing
+Biomedical Imaging, Bioengineering, and Acoustics
+Circuits
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Machine learning
+Signal Processing
+VLSI architectures and integrated circuits for DSP and communications","
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Healthcare and medical technologies
+Human computer interactions
+Neuro-engineering
+Sensing systems
+Speech, language, and audio processing"
+farzadk,Farzad Kamalabadi,,"
+Remote sensing and imaging
+Statistical signal and image processing
+Computational imaging
+Inverse problems
+Sensor array processing
+Statistical learning and inference
+Space physics","
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Computed imaging systems
+Radio and optical wave propagation
+Remote Sensing
+Signal Processing","
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Charge particle physics and engineering
+Computational science and engineering
+Cyberinfrastructures
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Electronics, Plasmonics, and Photonics
+Energy
+Imaging science and systems
+Machine learning
+Medical imaging
+Neuro-engineering
+Photonics: optical engineering and systems
+RF and microwave engineering
+Sensing systems
+Smart infrastructures"
+tkilleen,Timothy L Killeen,,,,
+kevinkim,Kyekyoon Kim,,"
+Syntheses and Study of Tailored Organometallic, Inorganic and Polymeric Precursors for Sol-Gel Processing, Charged Liquid Cluster Beam Deposition and Chemical Vapor Deposition
+Investigation of Methods for Controlled Fabrication of Thin Films, Nanofibers, and Nanoparticles Using Charged Liquid Cluster Beams of Precursor Solutions
+Investigation of Novel Approaches to Fabricating Micro and Nanoscale Structures for Development of New Devices and Material Systems for Controlled Release, Lighting, Display, Solar Cells, Photosensors, and Power Storage
+Development of Methods for Fabricating Uniform Micro and Nano Spheres and Capsules of Biodegradable and Biocompatible Materials for Advanced Drug Delivery and Cell-Based Therapy
+Development of High Power Electronic Devices Based on III-V Nitride Semiconductors Using Plasma Assisted Molecular Beam Epitaxy and Selective Area Growth Technology","
+Bionanotechnology
+Device modeling
+Energy storage conversion, management, and control
+Gallium nitride power semiconductors
+High-performance switching power converters
+Microelectronics and Photonics
+Nano-materials
+Nanotechnology
+Power electronics
+Semiconductor electronic devices","
+Bioelectronics and Bioinformatics
+Charge particle physics and engineering
+Electronics, Plasmonics, and Photonics
+Energy
+Healthcare and medical technologies
+Nanomedicine and bio-nanotechnology
+Semiconductor devices and manufacturing
+Solar and renewable technology"
+nskim,Nam Sung Kim,,,,
+kiyavash,Negar Kiyavash,,"
+Statistical Signal Processing with Applications to Network Inference and Security.","
+Forensics
+Network Security",
+erhan,Erhan Kudeki,"Projects in ionospheric radar signal processing for students with ECE 310, 313 and 350 background.","
+Incoherent Scatter Radar Theory and Measurements
+Ionospheric Propagation and Sounding Techniques
+Ionospheric Plasma Instabilities and Equatorial Electrodynamics
+Mid-latitude Field Aligned Irregularities and Meteor Trails
+Atmospheric Winds Waves and Turbulence
+Radar Remote Sensing","
+Antennas for communication and wireless sensing
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Atmospheric waves
+Coherent optics/imaging
+Radar and LIDAR
+Radar scattering
+Radio and optical wave propagation
+Remote Sensing","
+Charge particle physics and engineering
+Data science and analytics
+Decision science
+Electronics, Plasmonics, and Photonics
+Imaging science and systems
+Photonics: optical engineering and systems
+RF and microwave engineering"
+rakeshk,Rakesh Kumar,"Rakesh Kumar is an Associate Professor in the Electrical and Computer Engineering Department at the University of Illinois at Urbana Champaign with research and teaching interests in computer architecture, hardware design, and low power, trustworthy and error resilient computer systems. His research and teaching have been recognized through several best paper awards and best paper award nominations (IEEE MICRO Top Picks, ASPLOS, HPCA, CASES, SELSE, IEEE CAL), Stanley H Pierce Faculty Award, Mahatma Gandhi Pravasi Samman, Ronald W Pratt Faculty Outstanding Teaching Award, ARO Young Investigator Award, Arnold O Beckman Award, and UCSD CSE Best Dissertation Award. He previously served as a Co-Founder and Chief Architect at Hyperion Core, Inc, a microprocessor startup aimed at bringing polymorphous grid processor technology to the market. He often writes about issues at the intersection of technology, policy, and society -- his opinion columns frequently appear in leading newspapers and magazines. His technology and education advocacy has been recognized by a Nelson Mandela Leadership Award. Rakesh has a BS from IIT Kharagpur and a PhD from University of California at San Diego.  Our work spans all layers of the computing stack - circuits, architectures, compilers, systems, and applications. A typical member of my research  group is creative, hardworking, motivated, and ambitious. He/she has strong programming skills, with a background in circuits, CAD, or computer architecture. He/she is open to learning new skills and considers hard problems as particularly interesting. Students who do not fit the above profile are, in general, not good fits.  I am always looking for motivated and exceptional undergraduate students to join my group. Email rakeshk@illinois.edu if you want to do research in computer architecture. See our research/publications pages (http://passat.crhc.uiuc.edu) for a sampling of our research. Please attach your CV as well.","
+Fault tolerance, reliability
+Low power and complexity-effective designs
+CAD/architecture interactions
+Computer Architecture","
+Computer architecture
+Fault tolerance and reliability
+Hardware systems",
+jleburto,Jean-Pierre Leburton,"Current Position: Gregory Stilllman Professor of Electrical and Computer Engineering, UIUC Professor of Physics. UIUC Research Professor, Coordinator Science Laboratory, UIUC Research Professor, F. Seitz Material Research Laboratory, UIUC Research Professor, Micro and Nanotechnology Laboratory, UIUC Academic Experience: 2008- present       Professor of Physics, University of Illinois 2003- present       Gregory Stillman Professor of Electrical and Computer Engineering, University of Illinois 2000		Visiting Professor, Swiss Federal Institute of Technology, Lausanne, Switzerland  1992		Visiting Professor, University of Tokyo 1991-present    	Professor, University of Illinois 1987-1991	Associate Professor, University of Illinois 1983-1987	Assistant Professor, University of Illinois 1981-1983	Visiting Assistant Professor, University of Illinois Jean-Pierre Leburton received his Ph.D. from the University of Liege (Belgium) in 1978. He is a professor in the UIUC Department of Electrical and Computer Engineering and a research professor in the Coordinated Science Laboratory. He is also a full-time faculty member of the Computational Electronics Group in the Beckman Institute. Professor Leburton's expertise is the theory and simulation of nanoscale semiconductor devices and low-dimensional systems. His research focuses more specifically on transport and optical processes in semiconductor nanostructures such as quantum wells, quantum wires and quantum dots. Current research projects involve electronic properties of self-assembled dots for high performance lasers, single-electron charging and spin effects in quantum dots, modeling of nanocrystal floating gate flash memory devices, nanoscale Si MOSFET's and carbon nanotubes and graphene nanostructures. His research deals also with dissipative mechanisms involving electron-phonon interaction in nanostructures for mid- and far-infrared intra-band lasers. Approaches to these problems involve use of sophisticated numerical techniques such as Monte-Carlo simulation and advanced 3D self-consistent Schroedinger-Poisson model including non-equilibrium transport for full scale nanodevice modeling.In the last few years, he turned his interest toward the interaction between living systems and semiconductors to investigate programming and sensing biomolecules with nanoelectronics.","
+Theory of Semiconductor Devices, Modeling and Simulation of Nanostructures, Electronic and Optical Properties of Heterostructures and Low Dimensional Systems, Transport in Quantum Structures and Carbon-based nanostructures, Electronic Properties, Charging Effects in Quantum Dots and Nanocrystals, Spin Effects in Nanostructures, Quantum computation and Quantum Information Processing, Nano-biotechnology.","
+Advanced carbon-based materials and nanoscale devices
+Bionanotechnology
+Computational nanotechnology
+Device modeling
+Microelectronic and photonic device modeling
+Modeling and simulation of laser systems
+Nano-electronics and single electronics
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sprintronics","
+Beyond CMOS
+Bioelectronics and Bioinformatics
+Charge particle physics and engineering
+Computational science and engineering
+Genomics
+Nanomedicine and bio-nanotechnology
+Semiconductor devices and manufacturing"
+mllee,Minjoo Lawrence Lee,,,,
+xiuling,Xiuling Li,"Xiuling Li received her B.S. degree form Peking University and Ph.D. degree from the University of California at Los Angeles. Following post-doctoral positions at California Institute of Technology and University of Illinois, as well as industry experience at EpiWorks, Inc., she joined the faculty of the University of Illinois in 2007 as an Assistant Professor in the Department of Electrical and Computer Engineering. She was promoted to Associate Professor with tenure in 2012, and to Professor in 2015. Her research interests are in the area of nanostructured semiconductor materials and devices. She has published more than 138 journal papers and holds more than 20 patents. She is a Fellow of IEEE and APS. Her other honors and awards include NSF CAREER award, DARPA Young Faculty Award, and ONR Young Investigator Award. She served on the Board of Governors of the IEEE Photonics Society, and technical program committees of several international conferences. She is a Deputy Editor of Applied Physics Letters and serves as the Vice President of Finance and Administration of IEEE Photonics Society. Research positions available to highly motivated undergraduate students who have strong interests in semiconductor materials, processing, and devices, and firm commitment to research. Past undergraduate student researchers in professor Li's group have produced first-author papers, patents, and conference presentations. Interested students please contact Prof. Li with complete CV.","
+Metalorganic chemical vapor deposition (MOCVD)
+Compound semiconductor
+nanotechnology
+nanowires
+nanoelectronics
+photovoltaics
+nanophotonics
+metal-assisted chemical etching (MacEtch)
+self-rolled-up membrane (S-RuM) nanotechnology
+passive electronic components","
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectronics and Photonics
+Nano-electronics and single electronics
+Nano-materials
+Nano-photonics
+Nanotechnology
+Photonic crystals
+Plasma devices and plasma science
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials","
+Beyond CMOS
+Bioelectronics and Bioinformatics
+Cyberphysical systems and internet of things
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Neuro-engineering
+RF and microwave engineering
+Semiconductor devices and manufacturing
+Solar and renewable technology"
+z-liang,Zhi-Pei Liang,,"
+Pattern recognition, parameter estimation, and machine learning
+Image formation theory and algorithms
+Magnetic resonance imaging and spectroscopy","
+Biomedical imaging
+Machine learning and pattern recognition
+Signal Processing",
+liberzon,Daniel M Liberzon,,"
+Uncertain and stochastic systems
+Control with limited information
+Nonlinear control theory
+Switched and hybrid systems","
+Control
+Discrete-event, switched and hybrid systems
+Nonlinear systems and control",
+loganliu,Gang Logan Liu,,,,
+yilu4,Yi Lu,,,"
+Cloud computing
+Coding theory and applications
+Computer networking","
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Machine learning
+Network science and engineering
+Socio-technical systems and networking"
+lumetta, Steven Lumetta,"If the MRI is funded, there are three positions for people to develop the instrument, and I intend to find postdocs to fill those positions.   The intent is to use the MRI as a catalyst for interdisciplinary research efforts around computational genomics, so these postdocs will be able to help with those efforts and participate in them part time (% for some of the positions ramps down later in the project based on assumption of moving part of their time over to research efforts).","
+computational genomics, smartphone-based bioassays, optical network architecture, computer architecture, cluster computing, parallel computing, user-level communication, validation and reliability","
+Software systems",
+lyding,Joseph W Lyding,"After being recruited to Illinois in 1984 by John Bardeen to work on the 1D charge density wave problem Professor Lyding constructed the first atomic resolution scanning tunneling mi-croscope (STM) in the Midwestern United States and one of the earliest STMs in the US. He followed this by inventing an ultra-stable STM in 1987 that was patented (US Patent 4,841,148) and licensed by the University of Illinois to RHK and McAllister Technical Services. Lydings design has been copied worldwide and has also been included in major textbooks on surface science. In 1994 Professor Lyding developed a novel new STM-based nanofabrication scheme and achieved atomic resolution patterning of silicon surfaces through the selective desorption of hydrogen. This method was immediately recognized and copied worldwide with Lyding giving scores of invited and several plenary talks. His initial paper on the subject [Appl. Phys. Lett. 64, 2010 (1994)] has been cited 487 times. Lydings initial work uncovered the fact that there were two distinct physical phenomena associated the hydrogen desorption process. This led to collaboration with Dr. Phaedon Avouris at IBM who modeled these processes. Lyding was recognized with an IBM Partnership Award in 1996 which led to a further study of the desorption process with a cryogenic ultrahigh vacuum (UHV) STM constructed in Lydings lab. [Physical Review Letters [80, 1336 (1998), cited 221 times] and the development of feedback controlled lithography for single atom precision hydrogen desorption [Nanotechnology 11, 70 (2000), cited 208 times]. In 1995 Lyding discovered a giant isotope effect when hydrogen was replaced by deuterium on silicon surfaces, in an experiment suggested by Avouris. STM desorption studies showed that deuterium was two orders of magnitude more difficult to desorb than hydrogen. This was published in Chemical Physical Letters [257, 148 (1996)] and Surface Science [363, 368 (1996)] with 157 and 172 citations respectively. In a meeting with Professor Karl Hess, Lyding made the connection between the isotope effect he had observed in the STM experiments and the hydrogen-related hot-carrier degradation in CMOS transistors. Lyding proposed replacing hydrogen with deuterium in CMOS to see if the same isotope effect could reduce the degradation. Lyding and Hess worked with Dr. Isik Kizilyalli of Lucent to treat commercial CMOS chips in deuterium and their initial results showed a dramatic 50x reduction in hot-carrier degradation. Their first paper [Lyding, Hess and Kizilyalli, Appl. Phys. Lett. 68, 2526 (1996)] has been cited 367 times. This result was met with major publicity and was rapidly confirmed by industrial laboratories worldwide. Deuterium has been used in commercial production by several major chip manufacturers, most recently by Samsung, under license from the University of Illinois, for the ARM processors used in iPhone and iPad devices. In 1996 Lyding was called to Washington D.C. by Senator Bill Frist to present the deuterium result to a Senate conference forum on science and technology, exploring the unanticipated technology benefits of supporting fundamental research. In 2001-2002 Lyding began exploring carbon nanotubes on silicon as a potential hybrid approach to using nanotubes. Unfortunately, at that time there was no technique to integrate carbon nanotubes with clean, air sensitive surfaces. STM studies up until then relied on solution deposition of nanotubes onto inert gold surfaces. To circumvent this problem, Lyding developed a new method that he termed dry contact transfer (DCT) [Appl. Phys. Lett. 83, 5029 (2003), cited 84 times] in which nanotubes could be brought into a UHV environment and then directly stamped onto atomically clean surfaces. Lydings group published a number of papers between 2003 and 2007 using DCT to place nanotubes on silicon and III-V compound semiconductor surfaces. In these papers they noted a strong interaction between nanotube and substrate based on the relative alignment of the nanotube axis and substrate atomic row directions. Strong doping effects and nanotube bandgap changes were also observed, underscoring the detailed complexity of potential technological applications of carbon nanotubes. In 2007 Lyding extended the DCT method to the study of monolayer graphene on silicon and III-V substrates. His first paper on graphene [Nanotechnology 19, 015704 (2008)] was recognized as one of the most accessed papers in Nanotechnology for 2008. Unlike nanotubes, finite sheets of graphene have edges and it was predicted in 1996 that edges with the so called zigzag symmetry would exhibit a metallic edge state that should have a pronounced effect on transport through graphene quantum dots or nanoribbons. However, experiments didnt see this effect leading to postulation in the literature that nonuniformity and edge disorder were obfuscating the observation of edge effects. Through DCT of graphene on silicon Lyding and graduate student Kyle Ritter demonstrated for the first time the existence of the metallic zigzag edge state. Furthermore, they studied quantum size effects down to 2nm lateral graphene dimensions, an order of magnitude smaller than previous studies. This work was published in Nature Materials [8, 235 (2009), cited 505 times]. Lydings most recent work on graphene has demonstrated the admixture of graphene and substrate electron wavefunctions [Nano Lett. 10, 3446 (2010)], silicon-induced metallic states in semiconducting graphene quantum dots [Nano Lett. 11, 2735 (2011)], and that the copper (111) surface is the optimal copper surface for monolayer graphene growth [Nano Lett. 11, 4547 (2011), cited 156 times]. In 2006 Lyding invented a novel process for sharpening conductive probes down to sub-5nm radii. His method, Field-Directed Sputter Sharpening (FDSS), is based on ion sputtering of a biased probe. The probe bias establishes an inhomogeneous electric field at the tip apex that deflects the incoming ions and selectively sharpens the apex, which increases the field strength and enhances the effect. High performance STM and AFM tips with super hard coatings have now been demonstrated and Lyding is now the Chief Technical Officer of Tiptek, LLC, a new start-up company to commercialize this technology. The US Patent Office has issued FDSS patents (8,070,920 and 8,819,861). I have developed a new permanent course ECE 481 - Nanotechnology, which I offer every Spring semester. This course is offered with 3 hours credit for advanced undergraduate students and 4 hours of credit for graduate students. I also teach ECE 444 in which students fabricate silicon ICs in a unique laboratory facility. Carbon nanoelectronics, based on carbon nanotubes and graphene are being actively researched for future semiconducting device applications. To this end it is imperative to understand their interactions with technological substrates at the atomistic level. We have developed ultra-clean nanotube deposition and STM spectroscopic methodologies that achieve this level of understanding. Subtle effects are being seen for the first time and are being modeled with first principles theory and simulations.  Our group regularly involves undergraduate researchers in nanotechnology projects aimed at gaining an atomic level understanding of important phenomena that govern the development of nanoelectronic devices. Current projects involve the use of scanning tunneling microscopy (STM) to study carbon nanotubes, graphene and bonded silicon wafers. We are also involved in controlling the growth of carbon nanotubes.","
+Carbon Nanotube Purification
+Graphene Growth, Characterization and Device Fabrication
+Ultra-Sharp Probe Fabrication
+Integrating Graphene with Silicon and III-V Semiconductors
+Chirally Pure Nanotube Growth
+Dry Contact Transfer (DCT) Patterning on Nanostructures on Surfaces
+Carbon Nanotube Purification
+Oxide Silicon Interface Mapping
+Cross-Sectional STM of Semiconductor Heterostructures
+Atomically Precise Dopant Mapping
+Deuterium Processing and Hot Electron Degradation in Semiconductor Devices
+Growth of 3D silicon nanostructures
+Carbon Nanotubes and Carbon Based Nanotechnology merged with Silicon and III-V Semiconductors
+Silicon Based Molecular Electronics
+STM-Based Nanolithography and Nanofabrication
+Scanning Tunneling Microscopy and Spectroscopy","
+Advanced carbon-based materials and nanoscale devices
+Nano-electronics and single electronics
+Nano-materials
+Nanotechnology
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor materials","
+Beyond CMOS
+Bioelectronics and Bioinformatics
+Electronics, Plasmonics, and Photonics
+Energy
+Nanomedicine and bio-nanotechnology
+Quantum optics, cryptography, information, and computing
+Semiconductor devices and manufacturing
+Storage and conversion"
+jmakela,Jonathan J Makela,"Prof. Makela earned his B.S. (1999) and Ph.D. (2003) degrees from Cornell University from the School of Electrical and Computer Engineering in Cornell's College of Engineering.  From 2002-2004 he was a post-doctoral research associate at the Naval Research Laboratory, researching in the Thermosphere-Ionosphere Research Applications group.  He joined ECE ILLINOIS' faculty in 2004 where he is currently a Professor.  He has received several awards for his research and teaching, including the 2011 Mac Van Valkenburg Early Career Teaching Award from the IEEE Education Society and the 2008 Zeldovich Medal form the international Committee on Space Research and Russian Academy of Sciences. Prof. Makela's research interests lie in multi-technique remote sensing of the Earth's upper atmosphere. He works with ground- and satellite-based instrumentation to study both the quiet-time and storm-time behavior of this region at low- and mid-latitudes. To accomplish this, his group develops, tests, and deploys suites of sensors to sites around the world.  These instruments include portable imaging systems, Global Navigation Satellite System (GNSS) receivers, and Fabry-Perot interferometers.  His research group is currently working on developing new techniques and algorithms to simultaneously analyze these multiple datasets to better understand the underlying electrodynamics of instability processes in the equatorial and mid-latitude ionosphere, as well as the physics coupling of the neutral atmosphere to the electrified plasma in the ionosphere.  They are also developing algorithms that will be used by NASA's Ionospheric Connection Explorer mission, which will study the upward coupling between the atmosphere and near-space environment. His groups work has implications for improving specification and forecasting of space weather, natural hazards warnings, improving distributed sensing techniques, and furthering our understanding of basic space plasma physics.","
+Optical and radio remote sensing techniques from both ground- and satellite-based platforms.
+Response of the Earth's ionosphere to geomagnetic storms.
+Ionospheric physics, especially irregularities at low- and mid-latitudes and their effects on trans-ionospheric satellite signals.","
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Atmospheric waves
+Electromagnetics and Optics
+Radio and optical wave propagation
+Remote Sensing","
+Data science and analytics
+Imaging science and systems
+Sensing systems"
+milenkov,Olgica Milenkovic,"The current research focus of our group is on  1) Developing new approaches for studying problems in bioinformatics and bioengineering using coding and information theory. In particular, we investigate fundamental questions pertaining to design methodologies for DNA microarrays with error- and quality-control features and DNA microarrays that utilize compressed sensing principles. 2) Providing a bridge between the theory of compressed sensing and superimposed coding; non-linear compressive sensing with quantization and fault-tolerant sensing algorithms. 3) Using coding and information theory to study problems such as RNA folding, reverse engineering of gene-regulatory networks, and cost-constrained genome reversal distances. 4) Constructing and analyzing codes on graphs and developing new methods for studying the combinatorial properties of random ensembles of low-density parity-check codes. Our studies mainly focus on the computational complexity of problems quantifying the error-floor phenomena. 5) Analyzing the connections between network coding, matroid theory, and algebraic coding theory. 6) Analyzing the average case complexity of algorithms in coding theory and computer algebra.","
+Hypergraph clustering
+DNA-Based Data Storage, Coding for DNA-Based Data Storage, String Reconstruction
+Community Detection via Correlation Clustering
+Social Sciences and Voting Theory
+Rank aggregation
+Compressive Sensing
+Signal Processing
+Information Theory
+Constrained Coding
+Error-Control Coding (Algebraic/Iterative)
+Bioinformatics
+Analysis of Algorithms","
+Algorithms and computational complexity
+Biosensors and bioelectronics
+Coding theory and applications
+Communications
+Dynamic games and decision theory
+Fault tolerance and reliability
+Information theory
+Random processes
+Signal detection and estimation
+Signal Processing
+VLSI in communications","
+Bioelectronics and Bioinformatics
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Genomics
+Machine learning
+Network science and engineering
+Sensing systems
+Socio-technical systems and networking"
+soc1024,Andrew Edmund Miller,,,,
+mitras,Sayan Mitra,"Sayan Mitra is an Associate Professor ofElectrical and Computer Engineering. His research interests include formal methods, distributed computing, and mathematics for rigorous engineering of systems. He holds a PhD from MIT (2007), MSc from theIISc, Bangalore, and undergraduate degree fromJadavpur University, Kolkata. He was a postdoctoral fellow atCalTech, and has held visiting faculty positions at Oxford University, Air Force Research Laboratory (Kirkland), and TUVienna. Sayan received the National Science Foundation'sCAREER Award,AFOSR Young Investigator Research Program Award,IEEE-HKN C. Holmes MacDonald Outstanding Teaching Award, Samsung Global Research Outreach Award, and several best paper awards.  ECE 584 Verification of Embedded Computing Systems ECE 598 Modeling and Verifying Embedded Computing Systems (Spring 2010); ECE 190 Introduction to computing Systems (Fall 2009, Fall 2010, Fall 2011); ECE 428/CS 425 Distributed Systems (Spring 2009, Spring 2012); ECE 598 SM1 Modeling and Verification of Real-time and Hybrid Systems (Fall 2008). The goal our research is to develop algorithms and software tools that enable the creation of reliable computing systems. Typical application domains include autonomous vehicles, traffic control systems, medical devices, control systems etc. We are looking for graduate students with background in CS theory (formal methods, logic, automata theory, algorithms) and/or control theory. Solid programming skills & other mathematical background (e.g. stochastic processes) would be a plus. As an graduate researcher you will develop new verification and synthesis algorithms, build tools, and perform experiments in using these tools on real systems.  We are looking for juniors/seniors with solid programming skills (E.g., C/C++, Java, Matlab) and who intend to go to grad school in one of the related research areas. Preference will be given to those who can commit to working at least 6-8 hours a week for a couple of semesters. You will work closely with one of the graduate students towards developing software tools or applying them to verify a systems. This typically leads to an undergraduate thesis or publishable work. Take a look at some of the research projects.","
+Safe machine learning and autonomy
+Formal verification and synthesis",,
+pmoulin,Pierre Moulin,,"
+Image and Video Processing, Machine Learning, Compression, Recognition, Statistical Signal Processing, Statistical Learning, Information Theory, Information Hiding, Security","
+Information theory
+Signal detection and estimation
+Signal Processing
+Watermarking and information forensics","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Cognitive computing
+Computational science and engineering
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Distributed computing and storage systems
+Game theory
+Human computer interactions
+Imaging science and systems
+Machine learning
+Machine vision
+Network science and engineering
+Sensing systems
+Smart infrastructures
+Socio-technical systems and networking
+Wearable and mobile computing"
+dmnicol, David M. Nicol,"I aim to convey difficult material clearly, and challenge students to integrate concepts to solve new types of problems that follow immediately from the material covered. The study of large-scale systems encounters problems in representation, scalability, and behavior.  Project MOSES investigates such issues, particularly in the context of networking security. I have almost always had undergraduates working on my research team.  I support undergraduate summer interns.","
+security policy and its analysis
+parallel discrete-event simulation
+fluid based modeling
+mathematical modeling and analysis
+security
+public-key infrastructure",,
+idoia,Idoia Ochoa,,,"
+Adaptive signal processing
+Algorithms and computational complexity
+Coding theory and applications
+Image, video, and multimedia processing and compression
+Information theory
+Machine learning
+Machine learning and pattern recognition
+Random processes
+Signal detection and estimation","
+Bioelectronics and Bioinformatics
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Genomics
+Healthcare and medical technologies
+Machine learning
+Point-of-care diagnostics"
+oelze,Michael L Oelze,"Professor Oelze is interested in teaching wave propagation, acoustics, ultrasonic imaging, electromagnetics, biomedical imaging and mentoring students in research activities. Professor Oelze's research deals with several aspects of ultrasound/tissue interaction including: cancer detection using quantitative ultrasound, ultrasound microscopy, bioeffects of ultrasound, ultrasound-based therapies and coded excitation. Professor Oelze is using quantitative ultrasound techniques to analyze ultrasonic backscatter for breast cancer and thyroid cancer detection and for detection and grading of fatty liver disease.  Professor Oelze has examined the effects of ultrasound on hemorrhaging of lung tissue. Dr. Oelze is also studying the use of very high frequency ultrasound for experiments in ultrasound backscatter microscopy. Dr. Oelze has been studying inverse scattering techniques to create tomographic reconstructions of the sound speed, density and attenuation of materials.  Dr. Oelze is researching means to estimate the concentration of ultrasound contrast agents in vivo from the backscattered signals.  Dr. Oelze has developed a novel coded excitation technique combined with pulse compression to double the bandwidth of an ultrasonic imaging system. The additional bandwidth can be used to improve spatial resolution, improve contrast resolution, and/or improve the estimation of scatterer properties. Dr. Oelze is also interested in using coded excitation to improve harmonic imaging in ultrasound. Dr. Oelze is working on a project involving ultrasound-activated microbubbles to enhance cancer therapy. Finally, Dr. Oelze is working on techniques to stage, monitor, and assess high-intensity focused ultrasound treatment of solid tumors. The technique is based on using quantitative ultrasound imaging to detect tissue changes due to temperature rise in tissues, and  assessing noninvasively the effects of thermal ablation and hyperthermia on tissues. Dr. Oelze is also interested in monitoring therapy in tumors and in novel ultrasonic therapies for cancer treatment. Several projects are available for undergraduate research including the use of coding schemes to enhance ultrasonic imaging capabilities, devising improved measurement and calibration techniques for ultrasonic imaging, and quantifying materials using ultrasound. Students involved in these research opportunities will learn to characterize and calibrate ultrasonic sources, process data, and develop important laboratory skills.","
+Acoustic Communications
+Ultrasound therapy
+Coded Excitation and Ultrasound
+Ultrasound Computed Tomography
+Bioeffects of ultrasound
+Treatment monitoring using ultrasound
+Cancer diagnosis using ultrasound
+Quantitative ultrasound imaging
+Ultrasound backscatter microscopy","
+Acoustics
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics","
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Medical imaging
+Point-of-care diagnostics
+Sensing systems"
+sjp,Sanjay J. Patel,,"
+Computer architecture, microarchitecture, high-performance and reliable computer systems, the implications of future generation applications and implementation technologies on systems design.","
+Compilers
+Computer aided design
+Computer architecture
+Hardware verification and testing
+Image, video, and multimedia processing and compression
+Logic design and VLSI
+Operating systems
+Parallel processing",
+gpopescu,Gabriel Popescu,,,,
+cradhak,Chandrasekhar Radhakrishnan,,,,
+maxim,Maxim Raginsky,"Maxim Raginsky received the B.S. and M.S. degrees in 2000 and the Ph.D. degree in 2002 from Northwestern University, all in Electrical Engineering. He has held research positions with Northwestern, the University of Illinois at Urbana-Champaign (where he was a Beckman Foundation Fellow from 2004 to 2007), and Duke University. In 2012, he has returned to the UIUC, where he is currently an Associate Professor with the Department of Electrical and Computer Engineering and the Coordinated Science Laboratory. He also holds a courtesy appointment with the Department of Computer Science. Prof. Raginsky's interests cover probability and stochastic processes, deterministic and stochastic control, machine learning, optimization, and information theory. Much of his recent research is motivated by fundamental questions in modeling, learning, and simulation of nonlinear dynamical systems, with applications to advanced electronics, autonomy, and artificial intelligence.","
+Deterministic and stochastic dynamical systems in machine learning, optimization, and control
+Probability and stochastic processes
+Statistical machine learning
+Information theory","
+Control
+Decentralized and distributed control
+Dynamic games and decision theory
+Information theory
+Machine learning and pattern recognition
+Random processes
+Stochastic systems and control","
+Autonomous Systems and Artificial Intelligence
+Data/Information Science and Systems
+Decision science
+Game theory
+Machine learning
+Network science and engineering"
+ravaioli,Umberto Ravaioli,,,,
+elyse,Elyse Rosenbaum,"Elyse Rosenbaum is the Melvin and Anne Louise Hassebrock Professor in Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. She received the Ph.D. degree in electrical engineering from University of California, Berkeley. She is the director of the Center for Advanced Electronics through Machine Learning (CAEML), a joint project of the University of Illinois, Georgia Tech and North Carolina State University. CAEML is an NSF Industry/University Cooperative Research Center (I/UCRC). Dr. Rosenbaums present research interests include component and system-level ESD reliability, ESD-robust high-speed I/O circuit design, compact modeling, mitigation strategies for ESD-induced soft failures, and machine-learning aided behavioral modeling of microelectronic components and systems. Dr. Rosenbaum has authored or co-authored nearly 200 technical papers. She has presented tutorials on reliability physics at the International Reliability Physics Symposium, the EOS/ESD Symposium, and the RFIC Symposium, and she has given invited lectures at many universities and industrial laboratories; recently she was the keynote lecturer for DesignCon 2017. From 2001 through 2011, she was an editor for IEEE Transactions on Device and Materials Reliability. She is currently an editor for IEEE Transactions on Electron Devices. Dr. Rosenbaum was the  General Chair for the 2018 IEEE International Reliabiity Physics Symposium. Dr. Rosenbaum has been a visiting professor at Katholieke Universiteit in Leuven, Belgium and National Chiao-Tung University in Hsinchu, Taiwan. She has been the recipient of a Best Student Paper Award from the IEDM, Outstanding and Best Paper Awards from the EOS/ESD Symposium, a Technical Excellence Award from the SRC, an NSF CAREER award, an IBM Faculty Award, and the ESD Associations Industry Pioneer Recognition Award. She is a Fellow of the IEEE. Research opportunities exist for students with interests in device physics, circuit design and electromagnetics. Students must have good communication skills and an electrical engineering background. Students who have completed some or all of ECE 441, 482 and 483 are potentially able to assist with some of our research. There may also be opportunities for students who have studied machine learning or statistical learning theory. Juniors and seniors only.",,"
+Circuits
+Device modeling
+Digital integrated circuits
+Integrated circuit reliability
+Semiconductor electronic devices","
+Electronic Design Automation
+Machine learning
+Semiconductor devices and manufacturing"
+croy,Romit Roy Choudhury,"Romit Roy Choudhuryis aJerry Sanders III AMD Scholarand Professor of ECE and CS at the University of Illinois at Urbana Champaign (UIUC). He joined UIUC from Fall 2013, prior to which he was an Associate Professor at Duke University. Romit received his PhD in the CS department of UIUC in Fall 2006. His research interests are in wireless networking, mobile sensing, and mobile computing. Along with his students, he received a few research awards, including the 2017 ACM MobiSys Best Paper Award, the 2016 CS@UIUC Distinguished Alumni Award, the 2015 ACM Sigmobile Rockstar Award, the 2009 Hoffmann Krippner Award for Engineering Innovations, 2007 NSF CAREER Award, etc. Visit Romit's Systems Networking Research Group (SyNRG) athttp://synrg.csl.illinois.edu Romit's research interests are in wireless networking and protocol design mainly at the PHY/MAC layer, and in mobile computing at the application layer. In wireless networking, our research is focussed on exploiting physical layer (PHY) capabilities towards wireless protocol design, often on the software radio platforms. In mobile computing, we envision mobile smartphones (and emerging wearable devices) as a convergent platform for sensing, computing, and communications. Our goal is to integrate these three capabilities thereby enabling new classes of personal and collaborative applications and technologies.","
+Wireless Networking, Mobile Computing, IoT, Mobile Sensing","
+Cloud computing
+Computer networking
+Distributed algorithms
+Networking and distributed computing
+Wireless communication systems","
+Autonomous vehicular technology, UAVs
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data science and analytics
+Distributed computing and storage systems
+Human computer interactions
+Network science and engineering
+Robotics
+Sensing systems
+Smart infrastructures
+Socio-technical systems and networking
+Wearable and mobile computing"
+whs,William H Sanders,,,,
+psauer,Peter W Sauer,"Pete Sauer obtained his BS in Electrical Engineering from the University of Missouri at Rolla in 1969.  From 1969 to 1973, he was the electrical engineer on a design assistance team for the Tactical Air Command at Langley Air Force Base, Virginia, working on design and construction of airfield lighting and electrical distribution systems.  He obtained the MS and Ph.D. degrees in Electrical Engineering from Purdue University in 1974 and 1977 respectively.  He has been on the faculty at The University of Illinois at Urbana-Champaign since 1977 where he teaches courses and directs research on power systems and electric machines. From August 1991 to August 1992 he served as the Program Director for Power Systems in the Electrical and Communication Systems Division of the National Science Foundation in Washington D.C.  He is a cofounder of PowerWorld Corporation and served as Chairman of the Board of Directors from 1996-2001.  He is a cofounder of the Power Systems Engineering Research Center (PSERC) and has served as the Illinois site director from 1996-2015.  He retired from the Air Force reserves as a Lt. Col. in 1998.   He has authored/coauthored over 200 technical papers and the book with M. A. Pai, Power System Dynamics and Stability, published by Prentice-Hall in 1998.  He is a registered Professional Engineer in Virginia and Illinois, a Fellow of the IEEE, and a member of the U.S. National Academy of Engineering.  He is currently the Grainger Chair Professor of Electrical Engineering at Illinois.   Students are candles to be lighted, not bottles to be filled -- paraphrased from Plutarch. Power systems: Multi-machine dynamic modeling and simulation; Dynamic Security Assessment (DSA), Available Transfer Capability (ATC); Technical challenges of restructuring issues. Electric machinery: Dynamic modeling and simulation; advanced control methods; design and performance analysis.","
+Cyber security of power system EMS
+Power System Stability
+Power System Dynamic Modeling and Simulation
+Electric Machinery Modeling, Analysis and Control","
+Electrical machines and drive systems
+Power and Energy Systems","
+Computational science and engineering
+Cyberinfrastructures
+Electric transportation
+Energy
+Network science and engineering
+Policy and economics
+Smart grid and energy delivery
+Solar and renewable technology
+Storage and conversion"
+cdschmit,Christopher Schmitz,"Dr. Schmitz was bornin Pana, Illinois. He graduated valedictorian of Pana High School in 1988 and was a Bronze Tablet recipient upon receiving his BS in Electrical Engineering at the University of Illinois in 1993.He received his MS in Electrical Engineering at the University of Illinois in 1996 in the area of fault-tolerant adaptive filtering. Schmitz worked at TRW Space and Electronics Group in Hermosa Beach, California, in the area of  satellite communication.He completed his Ph.D. in 2002 in interference cancellation in multi-user communications. Upon graduation, he joined Beckman Institute of the University of Illinois to develop and test signal processing and wireless communication algorithms for advanced hearing device designs. Since 2005, Schmitz has also been active in the Electrical and Computer Engineering department performing course development work and teaching in the areas of digital signal processing and digital communications. Since 2012, he serves the department as Chief Undergraduate Advisor and the course director for ECE110, Intro to Electronics. His website can be found at http://publish.illinois.edu/cdschmitz/. ""Everything should be made as simple as possible, but not simpler."" -- restatement of Einstein  Teaching is vital to the success of the University of Illinois.Students must be engaged in the classroom. Demonstrations and active learning exercises provide a means to present complex ideas to students in intuitive ways. My research interests are primarily two-fold: 1) Promoting substantial research and individual study for undergraduates at all levels of the curriculum and 2)  improving engineering education through interactions with other educators throughout the College of Engineering. In the first role, I have founded an undergraduate research team, WaggleNet, for the collection and interpretation of data collected from operational honeybee colonies. For the latter role, I have been privileged to join the AE3 as an Education Innovation Fellow where I advise multiple projects in teaching and learning across the college. I will entertain undergraduate proposals in the areas of signal processing, communications, and circuits at any level of study. I also have an undergraduate research group, WaggleNet, the members of which work to collect and process data from operational honeybee colonies to reduce bee-related problems. WaggleNet.org","
+Acoustic Signal Processing for Hearing-Aid Applications
+Multiuser Detection
+Adaptive Signal Processing and Beamforming
+Wireless Communication
+Improving Education in STEM Disciplines","
+Adaptive signal processing
+Audio, speech, music and auditory processing
+Signal detection and estimation
+Wireless communication systems","
+RF and microwave engineering"
+jesa,Jose E Schutt-Aine,"The era of big data will lead to systems necessitating the transport of large amounts of information. Today's high-speed I/O signaling links are faced with difficult challenges: pins and interconnects available for off-chip signaling remain almost constant, while the throughput needed is increasing and the required aggregate bandwidths are moving into the Tb/s range (with target bit error rates as low as 10-21 for memory links).  High-speed chip-to-chip communication has historically been considered less critical than the on-chip signaling performance; however, due to today's huge demands for data throughput, off-chip interconnect bandwidth is increasingly becoming the system bottleneck, and creative solutions are needed to meet the requirements, now measured even in terabytes per second  for graphic processing cores. Due to manufacturing and technology limitations, the physical dimension scaling of the passive package and interconnect systems is unable to keep up with the rapid miniaturization benefits enjoyed by active devices (such as silicon chips in CMOS technology nodes) which is dictated by Moore's law. Therefore, the resources (pins and interconnects) available for off-chip signaling remain almost constant, while the throughput needed is increasing. This trend is expected to persist in the future. At the same time, in order to keep up with the data throughput needed over limited resources, high edge rates are being used for signaling. This causes various signal integrity impairments, which in turn limit the system performance and force the data rates to be well below the Shannon limit of the channel capacity. Coupled with the limited channel resources are the conflicting requirements of low power and extremely reliable signaling . All of these limitations combined call for creative solutions in order to keep up with the performance demands of next-generation systems.  In our research group we investigate how these changes will affect the different aspects of high-speed link design. We develop modeling and simulation strategies as well as techniques for mitigating noise while reducing power.","
+High-Frequency Measurements, Mixed-Signal Design, High-Performance Computing for Electromagnetic Modeling, CAD Tools for Interconnects and Packages, Signal Integrity,
+Machine Learning for High-Speed System Modeling","
+Circuits
+Computer aided design
+Device modeling
+Electromagnetic theory
+Electromagnetics and Optics
+Electronic packaging
+High-frequency circuits
+Microwave devices and circuits","
+Electronic Design Automation"
+aschwing,Alexander Gerhard Schwing,,,,
+shanbhag,Naresh R Shanbhag,"I teach courses in digital and analog integrated circuit design, digital signal processing, probability with engineering applications, VLSI architectures and algorithms for machine learning, communications and signal processing. My research investigates the design of energy-efficient machine learning and communication systems in scaled silicon and beyond CMOS technologies. Our work innovates across systems, algorithms, architectures and integrated circuits. Research opportunities exist for the creative, enthusiastic and hardworking undergraduate in the areas of integrated circuit design, VLSI architectures for DSP and communications, and machine learning implementations.","
+energy efficient systems, architectures and integrated circuits for communications, signal processing and machine learning","
+Circuits
+Communications
+Signal Processing
+VLSI in communications","
+Autonomous Systems and Artificial Intelligence
+Beyond CMOS
+Cognitive computing
+Cyberphysical systems and internet of things
+Data/Information Science and Systems
+Electronics, Plasmonics, and Photonics
+Machine vision
+Sensing systems
+Wearable and mobile computing"
+acsinger,Andrew Singer,"Andrew C. Singer received the S.B., S.M., and Ph.D. degrees, all in electrical engineering and computer science, from the Massachusetts Institute of Technology in 1990, 1992, and 1996, respectively. Since 1998, he has been on the faculty of the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, where he is currently holds the Fox Family Endowed Professorship and the rank of Professor in the Electrical and Computer Engineering Department and serves as Associate Dean for Innovation and Entrepreneurship in the College of Engineering.  He also holds the rank of Professor in the Departments of Industrial and Enterprise Systems Engineering and in the Department of Business Administration in the College of Business.  During the academic year 1996, he was a Postdoctoral Research Affiliate in the Research Laboratory of Electronics at MIT.  From 1996 to 1998, he was a Research Scientist at Sanders, A Lockheed Martin Company in Manchester, New Hampshire, where he designed algorithms, architectures and systems for a variety of DOD applications.  His research spans algorithms and architectures for statistical signal processing and communication systems, as well as information theory and machine learning.  He was a Hughes Aircraft Masters Fellow, and was the recipient of the Harold L. Hazen Memorial Award for excellence in teaching in 1991.  In 2000, he received the National Science Foundation CAREER Award, in 2001 he received the Xerox Award for Outstanding Faculty Award, and in 2002 was named a Willett Faculty Scholar.  He has received numerous awards and honors, including Best Paper Awards from the IEEE Solid State Circuits Society in 2006 for his paper in the Journal of Solid State Circuits, and in 2008 from the IEEE Signal Processing Society for his paper in the Signal Processing Magazine.  Dr. Singer has served as an Associate Editor for the IEEE Transactions on Signal Processing and is a member of the MIT Educational Council, and of Eta Kappa Nu and Tau Beta Pi.  He is a Fellow of the IEEE and was selected as a Distinguished Lecturer of the IEEE Signal Processing Society in 2014.  From 2005-2017, Dr. Singer served as the Director of the Technology Entrepreneur Center (TEC) in the College of Engineering creating and overseeing courses and activities attended by over 5,000 students annually.  In 2017 he was named Interim Director of the Siebel Center for Design and in 2018 was appointed as Associate Dean for Innovation and Entrepreneurship in the College of Engineering. In 2000, he co-founded Intersymbol Communications, Inc., a venture-funded fabless semiconductor IC company, based in Champaign Illinois, which brought an MLSE-based electronic dispersion compensation chip-set to the optical communications market.  In 2007, Intersymbol Communications, Inc., was acquired by Finisar Corporation. In 2015, he co-founded OceanComm, developer of real-time video capable, Mb/s underwater wireless communication systems. Dr. Singer serves on the Board of Directors of Dx Photonics, a medical imaging technology company and of Mimosa Acoustics, an audiology diagnostic device company. He also serves as an expert witness to the signal processing and communications industries. Underwater acoustic communications research. Augmented listening and audio signal processing research. Matlab and signal processing knowledge required.","
+Signal Processing, Communication Systems, Machine Learning, Sonar/Lidar/Optical Signal Processing, finance, optical communications, wireline/wireless communications, underwater acoustic communications, cognitive and algorithmic decision making.","
+Acoustics
+Adaptive signal processing
+Analog integrated circuits
+Antennas for communication and wireless sensing
+Circuits
+Coding theory and applications
+Communication networks
+Communications
+Computer architecture
+Computer vision and pattern recognition
+Digital integrated circuits
+Dynamic games and decision theory
+Information theory
+Machine learning and pattern recognition
+Nonlinear systems and control
+Optical communications
+Parallel processing
+Random processes
+Signal detection and estimation
+Signal Processing
+VLSI architectures and integrated circuits for DSP and communications
+VLSI in communications
+Wireless communication systems","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Bioelectronics and Bioinformatics
+Cognitive computing
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Robotics
+Sensing systems
+Socio-technical systems and networking
+Speech, language, and audio processing
+Wearable and mobile computing"
+paris,Paris Smaragdis,"Paris Smaragdis is faculty at the Computer Science and the Electrical and Computer Engineering departments of the University of Illinois at Urbana-Champaign, as well as a senior research scientist at Adobe Research. He completed his masters, PhD, and postdoctoral studies at MIT, performing research on computational audition. His research is focused on machine learning approaches to solving various audio signal processing problems. In 2006 he was selected by MITs Technology Review as one of the years top young technology innovators for his work on machine listening, in 2015 he was elevated to an IEEE Fellow for contributions in audio source separation and audio processing, and he served as an IEEE SPS Distinguished Lecturer in 2016-2017. He is currently the chair of IEEE's Audio and Acoustic Signal Processing Technical Committee, and a member-at-large of the IEEE Signal Processing Society Board of Governors. He has been the chair of the ICA/LCA steering committee, the chair of the IEEE Machine Learning for Signal Processing Technical Committee, a member of the IEEE Audio and Acoustic Signal Processing Technical Committee, an Associate Editor for the IEEE Signal Processing Letters, and a Senior Area Editor for the IEEE Signal Processing Transactions. He holds 37 US patents and many other internationally.","
+Machine Learning
+Signal Processing
+Machine Listening
+Audio Processing","
+Audio, speech, music and auditory processing
+Machine learning
+Machine learning and pattern recognition
+Robotics, vision, and artificial intelligence
+Signal detection and estimation
+Signal Processing
+Speech recognition and processing","
+Autonomous Systems and Artificial Intelligence
+Data science and analytics
+Data/Information Science and Systems
+Machine learning
+Speech, language, and audio processing"
+rsrikant,Rayadurgam Srikant,"I like to design algorithms for solving problems in the areas of communication networks, social networks, cloud computing and machine learning, using mathematical tools from probability, optimization, control theory and game theory.","
+Communication Networks
+Machine Learning
+Cloud Computing
+Stochastic Networks
+Game Theory
+Stochastic Control","
+Communication networks
+Dynamic games and decision theory
+Machine learning
+Random processes
+Stochastic systems and control","
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Game theory
+Machine learning
+Network science and engineering"
+nhv,Nitin H Vaidya,"Nitin Vaidya received the Ph.D. from the University of Massachusetts at Amherst. He is a Professor of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. He has held visiting positions at Argonne National Labs, Technicolor Paris Lab, TU-Berlin, IIT-Bombay, Microsoft Research, and Sun Microsystems, as well as a faculty position at the Texas A&M University. Nitin Vaidya has co-authored papers that received awards at several conferences, including 2015 SSS, 2007 ACM MobiHoc and 1998 ACM MobiCom. He is a fellow of the IEEE. He presently serves the Chair of the Steering Committee for the ACM PODC conference, and has previously served as Editor-in-Chief for the IEEE Transactions on Mobile Computing, and Editor-in-Chief for ACM SIGMOBILE publication MC2R. More information at http://disc.ece.illinois.edu/. My teaching interests are in the area of distributed computing and networking. Research on distributed algorithms and systems. Prof. Vaidya's research group conducts research in the area of distributed algorithms and systems. Opportunities are sometimes available for undergraduate students interested in working on distributed systems. Suitable students will have taken ECE 428/CS 425 and preferably CS 374.","
+Fault-Tolerant Computing
+Distributed algorithms","
+Communication networks
+Computer networking
+Computer security, privacy, and information trust
+Distributed algorithms
+Distributed and peer-to-peer systems
+Fault tolerance and reliability","
+Autonomous Systems and Artificial Intelligence
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data/Information Science and Systems
+Distributed computing and storage systems
+Network science and engineering"
+dpv,David Varodayan,"David joined Computer Science in Fall 2018 to lead the required undergraduate course on probability, statistics and introductory machine learning (CS 361). He also teaches a course on discrete mathematics and proof writing (CS 173). For the previous 5 years, he held the positions of Lecturer and Academic Advisor in the Department of Electrical and Computer Engineering (ECE) at Illinois, where he taught computer organization and assembly programming, circuits, and signals and systems. He was also the ECE Director of the Merit Program for Emerging Scholars. David won the ECE department's inaugural George Anner Excellence in Undergraduate Teaching Award (2016) has appeared on the University's List of Teachers Ranked as Excellent 9 times in the 11 semesters that he has taught. He received M.S. and Ph.D. degrees from Stanford University in 2005 and 2010, respectively.",,,
+varshney,Lav R Varshney,My research focuses on the science and engineering of informational systems involving humans and machines.  It is driven by a desire to improve individual and collective intelligence in modern environments.,,"
+Coding theory and applications
+Communications
+Fault tolerance and reliability
+Image, video, and multimedia processing and compression
+Information theory
+Machine learning and pattern recognition
+Nanotechnology
+Signal detection and estimation
+Signal Processing
+VLSI in communications","
+Autonomous Systems and Artificial Intelligence
+Cognitive computing
+Cyberphysical systems and internet of things
+Data science and analytics
+Data/Information Science and Systems
+Decision science
+Distributed computing and storage systems
+Electric transportation
+Human computer interactions
+Machine learning
+Network science and engineering
+Neuro-engineering
+Sensing systems
+Smart infrastructures
+Socio-technical systems and networking
+Speech, language, and audio processing"
+shobhav,Shobha Vasudevan,,"
+Algorithms for graphical/network analysis of data
+Verification of digital, analog and mixed signal systems","
+Algorithms and computational complexity
+Analog integrated circuits
+Biosensors and bioelectronics
+Compilers
+Computer aided design
+Computer aided design of integrated circuits
+Computer architecture
+Computer security, privacy, and information trust
+Discrete-event, switched and hybrid systems
+Fault tolerance and reliability
+Formal methods and software verification
+Hardware systems
+Integrated circuit reliability
+Logic design and VLSI
+Machine learning and pattern recognition
+Operating systems
+Programming languages
+System modeling and measurement
+VLSI architectures and integrated circuits for DSP and communications
+VLSI in communications","
+Autonomous vehicular technology, UAVs
+Cyberphysical systems and internet of things
+Data science and analytics
+Genomics
+Healthcare and medical technologies
+Machine learning"
+vvv,Venugopal V. Veeravalli,"Venu Veeravalli received the  Ph.D. degree in 1992 from Illinois, the M.S. degree in 1987 from Carnegie-Mellon University, and the B. Tech. degree in 1985 from the Indian Institute of Technology, Bombay, (Silver Medal Honors), all in electrical engineering. He joined Illinois in 2000, and is currently a professor in the ECE Department. He also holds appointments in Department of Statistics, the Coordinated Science Laboratory and the Information Trust Institute. Prior to joining Illinois, he was on the faculty of the School of ECE at Cornell University. He served as a program director for communications research at the U.S. National Science Foundation in Arlington, VA during 2003-2005.  He is a Fellow of the IEEE, and has been on the Board of Governors of the IEEE Information Theory Society and on the SPTM Technical Committee of the IEEE Signal Processing Society. He has been an Associate Editor for the IEEE Transactions on Information Theory, and for the IEEE Transactions on Wireless Communications. He was a Distinguished Lecturer for the IEEE Signal Processing Society during 2010-2011. Veeravalli's research interests span the theoretical areas of statistical inference, machine learning, and information theory, with applications to data science, wireless communications, and cyberphysical systems. Veeravalli received the 1996 IEEE Browder J. Thompson Award, an award given annually to an outstanding paper by authors under the age of thirty selected from all the publications of the IEEE. In 1998 he received a CAREER Award from the National Science Foundation, and was one of the twenty CAREER awardees from all the disciplines of the NSF to receive the Presidential Early Career Award for Scientists and Engineers (PECASE) from the White House in 1999. He received the Abraham Wald Prize in Sequential Analysis in 2016. While at Cornell, he received the Michael Tien Excellence in Teaching Award from the College of Engineering. At Illinois, he has received the Beckman Associate Fellowship at the Center for Advanced Study, 2002, the Xerox Award from the College of Engineering in 2003, and has been listed multiple times on the List of Teachers Ranked as Excellent by their Students. Professor Veeravalli has taught undergraduate courses on communication systems, probability, signal and systems, and data science, and graduate courses on detection and estimation theory, information theory, communication theory, and wireless communication. Veeravallis research interests span the theoretical areas of statistical inference, machine learning, and information theory, with applications to data science, wireless communications, and cyberphysical systems. Research Experience for Undergraduates (REU) supported by National Science Foundation (NSF) grants.","
+Wireless Communication
+Sensor Networks
+Data Science and Engineering
+Information Theory
+Detection and Estimation Theory
+Machine Learning
+Statistical Inference","
+Adaptive signal processing
+Computer security, privacy, and information trust
+Distributed algorithms
+Information theory
+Intelligent devices and controls for electricity grids
+Machine learning
+Machine learning and pattern recognition
+Random processes
+Signal detection and estimation
+Stochastic systems and control
+Wireless communication systems","
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data science and analytics
+Decision science
+Machine learning
+Sensing systems
+Smart grid and energy delivery"
+pramodv,Pramod Viswanath,"My area of research is Wireless Communication Networks. My main research interests are in understanding fundamental limitations to reliable wireless communication and to leverage this understanding into engineering solutions for wireless networks. An important component of my research is to take a system view of wireless communication by a joint consideration of networking and medium access issues with the underlying time-varying wireless channel. More broadly, I am interested in understanding fundamental limitations to network information transmission and representation. Some of our recent research resolves decades-long open problems in optimal network information compression. My publications provide a finer look at the nature of my research interests and the engineering scope of contributions.","
+Wireless Communication, Information Theory, Cryptocurrencies","
+Communication networks
+Communications
+Information theory
+Wireless communication systems","
+Autonomous Systems and Artificial Intelligence
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Machine learning
+Network science and engineering
+Speech, language, and audio processing"
+yvlasov,Yurii Vlasov," Dr. Yurii Vlasov is a GEBI Founder Professor of Engineering at the University of Illinois at Urbana-Champaign. He is tenured with the departments of Electrical and Computer Engineering, Materials Science and Engineering, and Bio-Engineering, as well as Carle Illinois College of Medicine. At the UIUC he established the Integrated Neurotechnology lab devoted to development of advanced engineering approaches aimed at reverse engineering of the brain circuits. The major themes include development of silicon-based nanofluidic and nanophotonic neural probes, in-vivo neurobiological experiments with massive recording and manipulation of brain activity, and, lastly, development of machine-learning algorithms to analyze large neural datasets.      Prior to joining the UIUC in 2016, Dr. Vlasov held various research and managerial positions at the IBM T.J. Watson Research Center in N.Y. where he led broad company-wide efforts in integrated silicon nanophotonics and more recently in neuromorphic computing architectures. He initiated the Silicon Nanophotonics project in 2001 and managed it for over 15 years from its early fundamental research stage up to commercial manufacturing of optical transceivers for large-scale datacenters and supercomputers. The technology has been fully qualified and deployed for commercial production at GlobalFoundries.      Prior to joining IBM in 2001, Dr. Vlasov developed semiconductor nanophotonics at the N.E.C. Research Institute in Princeton, N.J. and at the Strasbourg IPCMS Institute in France. For over a decade, he was also a Research Scientist with the Ioffe Institute of Physics and Technology in St. Petersburg, Russia working on optics of nanostructured semiconductors. He received his M.S. from the University of St. Petersburg (1988) and Ph.D from the Ioffe Institute (1994), both in physics.        Dr. Vlasov is a Fellow of APS, IEEE, and OSA. He has published over 300 papers, filed over 100 patents, and delivered over 100 invited, plenary and tutorial talks. He received the IBM CEO Corporate Award, the Best of IBM Award, and several IBM Outstanding Technical Achievement Awards, as well as was named Scientist of the Year by the Scientific American journal. Dr. Vlasov and his work has been covered in numerous major newspapers, including New York Times, Forbes, Wall Street Journal, and others. It has been featured on television news programs including The Tonight Show, ABC, CBS, etc. It has also been highlighted in review columns on Science Daily, Scientific American Journal, New Scientist, etc. We aim to uncover the basic principles of brain computations that form the basis of perception and guide complex behavior. Our vision is to integrate engineering, systems neuroscience, and data analytics to advance our knowledge of inner working of the brain. Correspondingly, the interdisciplinary projects in the lab can be categorized into three main threads: Neuro-engineering, Neuro-biology, and Neuro-informatics. Neuro-engineering is focused on developing advanced neural probes to interrogate and manipulate the brain using nanotechnology approaches. These novel tools are used in Neuro-biology experiments to record massive datasets of brain activity in live animals during active navigation in virtual reality. Development of machine learning analytical methods in Neuro-informatics thread provides insight into functionality of neural circuits and systems.","
+Neuroengineering, Integrated neural probes, neurophotonics, Brain-machine interface, Virtual Reality systems
+Neurobiology, Experimental systems neuroscience, Hierarchical information processing in cortical networks
+Neuroinformatics, Machine learning, dimensionality reduction, network dynamics","
+Bioelectromagnetics
+Bionanotechnology
+Biosensors and bioelectronics
+Microcavity lasers and nanophotonics
+Sensors","
+Micro & nanoelectromechanical M/NEMS integrated systems
+Nanomedicine and bio-nanotechnology
+Neuro-engineering"
+lwaldrop,Lara Waldrop,"Modern societys increasing reliance on space-based assets for communication, navigation, and resource management demands a detailed and precise understanding of the time-varying behavior of the terrestrial atmosphere near low-earth orbit (~200-2000 km). Dr. Waldrop's research addresses this need by devising novel sensing techniques to provide empirical estimation of constituent species temperature and density, quantities which govern the frictional drag of satellites and space debris and thus orbital trajectories and collision hazards. These techniques also support the monitoring and future prediction of transient disturbances caused by space weather, which pose additional dangers to infrastructure through electric charging of satellite electronics, disruption of radio communication signals from space to ground, and induced currents in the electric power grid. Dr. Waldrop's research enables the unprecedented quantification of atmospheric state parameters both directly, via mass spectrometer deployment on small satellites, as well as indirectly, through constraint of numerical models of chemical and radiative processes by various dispersed and often intermittent data sources. The intrinsic challenge of obtaining sufficient model constraints for indirect state parameter estimation demands the utilization of a variety of ground- and space-based remote sensing techniques, including incoherent scatter and frequency-swept radars, and spectroscopy, photometery, and interferometery at wavelengths ranging from near-infrared to far-ultraviolet. The breadth of her research endeavors  from the development and deployment of novel observing modalities, including nano-satellites, to computational model capabilities  enables insights regarding the properties and behavior of the atmospheric boundary region that protects our habitable environment from outer space and sustains our technological infrastructure.","
+Development of optical and radar remote sensing techniques
+Space plasma diagnostics
+Computational modeling of radiative processes
+Small satellite mission design and implementation","
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Radio and optical wave propagation
+Remote Sensing","
+Charge particle physics and engineering
+Computational science and engineering
+Data science and analytics
+Photonics: optical engineering and systems
+Sensing systems"
+mdfwong,Martin D F Wong,,"
+Combinatorial optimization
+Design and analysis of algorithms
+Field-programmable systems
+Design for Manufacturing
+CAD for VLSI Electronic Packaging
+Computer-aided design of VLSI","
+Algorithms and computational complexity
+Circuits
+Computer aided design of integrated circuits
+Logic design and VLSI",
+zhizhenz,Zhizhen Zhao,,,,
+jinzhou,Jin Zhou,,,,
+wjzhu,Wenjuan Zhu,,,,

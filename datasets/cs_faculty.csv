@@ -1,0 +1,390 @@
+NetID,Professor Name,Professor Description,Research Interest,Research Area,Research Topic
+zaher,Tarek Abdelzaher,,,,
+sadve,Sarita V Adve,,"
+Computer architecture, parallel computing, computer systems, low power systems, reliability","
+Architecture, Compilers, and Parallel Computing",
+vadve,Vikram Adve,,,"
+Architecture, Compilers, and Parallel Computing
+Programming Languages / Formal Methods / Software Engineering
+Systems and Networking",
+agha,Gul A Agha,,,,
+eyal,Eyal Amir,,,,
+angrave,Lawrence Christopher Angrave,"Lawrence provides Undergraduate Research Opportunities through CS498la ""Undergraduate Research lab""",,"
+CS Education",
+bpbailey,Brian P Bailey,I almost always have undergraduate research opportunities available in my research group. Please contact me for further information.,,"
+Graphics, Visualization and HCI",
+g-baker,Gordon J Baker,,,,
+lbarr1,Lloyd Barr,,,,
+nikita,Nikita Borisov,"My research interests lie in the area of computer security and privacy, especially as applied to large-scale distributed systems. My current focus is on anonymity: analysis of existing anonymous systems and the design of new peer-to-peer anonymous networks. In this research I take a systems approach, with rigorous, quantitative metrics of anonymity and analysis with help from simulations. I also work on other privacy enhancing technologies, such as techniques for privacy-preserving data aggregation, as well as research into building reliable and secure peer-to-peer networks.","
+Fingerprinting of network traffic and endpoints
+Privacy-preserving data sharing
+Design and analysis of anonymous networks","
+Communication networks
+Computer networking
+Computer security, privacy, and information trust
+Cryptographic systems and protocols
+Distributed and peer-to-peer systems
+Operating systems
+Watermarking and information forensics","
+Cybersecurity and privacy
+Distributed computing and storage systems
+Sensing systems
+Smart grid and energy delivery
+Wearable and mobile computing"
+tbretl,Timothy Bretl,,"
+engineering education
+rehabilitation robotics (upper- and lower-limb prosthetic devices)
+brain-machine interfaces
+optimal control
+robotic manipulation
+motion planning
+theoretical and algorithmic foundations of robotics and automation","
+Controls, Dynamical Systems and Estimation
+Space Systems
+Unmanned Aerial Vehicles",
+mcaccamo,Marco Caccamo,,"
+In broad terms, his research interests are centered on the area of embedded systems. He has worked in close collaboration with avionics, farming, and automotive industries developing innovative software architectures and toolkits for the design automation of embedded digital controllers, and low-level resource management solutions for real-time operating systems running on multicore architectures. More recently, he has begun to investigate real-time, security, and robustness problems in the software architecture of unmanned aerial vehicles (UAVs).","
+Embedded, real-time, and hybrid systems
+Networking and distributed computing
+Wireless communication systems","
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Cyberphysical systems and internet of things
+Smart infrastructures"
+caesar,Matthew Chapman Caesar,,,,
+cappello,Franck Cappello,,,,
+kcchang,Kevin Chen-Chuan Chang,"Kevin C. Chang is a Professor in Computer Science,University of Illinois at Urbana-Champaign. He received a BS fromNational Taiwan Universityand PhD fromStanford University, in Electrical Engineering. His research addresses large scale information access, for search, mining, and integration across structured and unstructured big data, with current focuses on ""entity-centric"" Web search/mining and social media analytics. He received two Best Paper Selections in VLDB 2000 and 2013, an NSF CAREER Award in 2002, an NCSA Faculty Fellow Award in 2003, IBM Faculty Awards in 2004 and 2005, Academy for Entrepreneurial Leadership Faculty Fellow Award in 2008, and the Incomplete List of Excellent Teachers at University of Illinois in 2001, 2004, 2005, 2006, 2010, and 2011. He is passionate to bring research results to the real world and, with his students, co-foundedCazoodle, a startup from the University of Illinois, for deepening vertical ""data-aware"" search over the web. I lead theFORWARD Group, which is part of the largerData and Information Systems Laboratories, at the CS department of UIUC.Our research overall aims atbridging structured and unstructured big data--- to bring structured/semantic-rich access to the myriad and massive unstructured data which accounts for most of the world's information. Therefore, our research spans acrossdata mining,data management/databases,information retrieval, machine learning, with current efforts focusing oninteractive data management,entity-centric Web search and mining,social media analytics,andsocial network mining.As our objectives, we aim at developing novel systems, principled algorithms, and formal theories that ultimately deliver real world applications. As our approaches, we seek to be inspired by and learn from the data we are tackling-- i.e., we believe the key to tame big data is to learn the wisdom hidden in the large scale of the data. I am looking for PhD/MS students to join the research project at the FORWARD Lab. Our current projects studies theories and algorithms as well as build systems for real world data management applications for Web search/mining and social media analytics. Take a look at our recent publications to see what we work on. Our FORWARD Lab welcome undergraduate students to participate in research with us. You will join our projects to work with graduate students for design algorithms and implement systems in data management, data mining, and social media/network analytics.   UIUC List of Teachers Ranked as Excellent by Their Students, Fall 2001, Spring 2004, Fall 2005, Spring 2006, Fall 2010, Fall 2011.","
+data mining, database systems, machine learning, information retrieval, web search/mining, social media analytics","
+Database and Information Systems",
+chekuri,Chandra Sekhar Chekuri,,,"
+Theory and Algorithms",
+dchen,Deming Chen,,,,
+w-chew,Weng Cho Chew,"W.C. Chew received all his degrees from MIT.   His research interests are in wave physics, specializing in fast algorithms for multiple scattering imaging and computational electromagnetics in the last 30 years.  His recent research interest is in combining quantum theory with electromagnetics, and differential geometry with computational electromagnetics.  After MIT, he joined Schlumberger-Doll Research in 1981.  In 1985, he joined U Illinois Urbana-Champaign, where he was then the director of the Electromagnetics Lab from 1995-2007.  During 2000-2005, he was the Founder Professor, 2005-2009 the YT Lo Chair Professor, and since 2013 the Fisher Distinguished Professor.  During 2007-2011, he was the Dean of Engineering at The University of Hong Kong.   He has co-authored three books, many lecture notes, over 400 journal papers, and over 600 conference papers.  He is a fellow of various societies, and an ISI highly cited author.   In 2000, he received the IEEE Graduate Teaching Award, in 2001, the AP-S Schelkunoff Best Paper Award, in 2008, he received the IEEE AP-S CT Tai Distinguished Educator Award, in 2013, elected to the National Academy of Engineering, and in 2015 received the ACES Computational Electromagnetics Award.  He is selected to receive the 2017 IEEE Electromagnetics Award, and will be the next IEEE AP-S President in 2018.  He has international collaboration with The U of Hong Kong, and participates actively in the inter-disciplinary Area of Excellence Project on Theory, Modeling, and Simulation of Emerging Electronics supported by the Hong Kong government. Prof. Chew teaches undergraduate courses and graduate courses.  Throughout his career at UIUC, he has taught a large variety of undergraduate courses, ranging from electrical machinery, linear systems, electronic devices, electromagnetic fields and waves, to quantum mechanics for electrical engineers. He also teaches graduate courses in fundamental electromagnetics, waves and fields in inhomogeneous media, and theory of microwave and optical waveguides.  He seeks to explain difficult concepts in a simple way so that one can obtain good physical insight from the complicated mathematics.  He often supplements his lectures with supplementary lecture notes.  He believes in the adages, ""Once the mind is stretched, it does not regain its original dimension,"" and, ""If you can't explain something simply, you don't really understand it.""  He is the winner of IEEE Graduate Teaching Award, the UIUC Campus Award for Excellence in Graduate and Professional Teaching, and IEEE AP Chen-To Tai Distinguised Educator Award.
+Prof. Chew's research interest is in computational electromagnetics and fast computational algorithms for solving electromagnetic scattering and multiphysics problems. His recent research interest is in adding quantum effects and multi-physics concepts to computational works. This includes developing models for solar cells, nano-electronics, quantum transport, and Casimir force. He also studies computational methods to solve the multi-scale problem in computer chip and circuit design. He works with the Area of Excellence Project at The University of Hong Kong on ""Theory, Modeling, and Simulation of Emerging Electronics"".
+
+His past areas of research interest have been in wave propagation, scattering, inverse scattering, complex boundary value problems for microstrip circuits, and inhomogeneous media for geophysical subsurface sensing, nondestructive testing applications.  Previously, he has designed experiments with his graduate students to demonstrate the super-resolution phenomena of nonlinear inverse scattering. Working with his group and NCSA in year 2004, they have solved record-size electromagnetic scattering problems with 20 million unknowns using fast algorithms and matrix-free methods. He is the originator of several fast algorithms for solving electromagnetics scattering and inverse problems, and has authored a book, Waves and Fields in Inhomogeneous Media, and coauthored two books, Fast and Efficient Algorithms in Computational Electromagnetics and Integral Equation Methods for Electromagnetic and Elastic Waves, in addition to more than 300 scientific journal articles and 400 conference papers, several patents, book chapters, and many lecture notes.
+ Prof. Chew welcomes undergraduates to work in his research group.","
+Casimir force calculation, solar cells, nano-electronics, quantum effects in optics and electromagnetics, and nano-optics
+Inverse scattering, computational imaging, and physics-based signal processing
+Parallelization of fast algorithms
+Electromagnetics, wave propagation in inhomogeneous media, microwave   integrated circuits, microstrip antennas, and fast algorithms for radar scattering, low frequency electromagnetics, layered media, and left-handed materials.","
+Biomedical Imaging, Bioengineering, and Acoustics
+Electromagnetic theory
+Electromagnetics and Optics
+Nanotechnology",
+mrebl,Gerald F DeJong II,,,,
+dig,Daniel Dig,,,"
+Programming Languages / Formal Methods / Software Engineering",
+jeffe,Jeff G Erickson,"I am a full professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign, where I have been on the faculty since 1998.  I have published over 100 technical papers in computational geometry, computational topology, and related research areas. My free textbook Algorithms has been used (in preliminary form) in dozens of computer science departments and by myriads of of students around the world.  My awards include a Sloan Research Fellowship, an NSF CAREER award, and multiple teaching and research awards from the University of Illinois.  Please see http://jeffe.cs.illinois.edu/cv.pdf for a detailed curriculum vit. I primarily teach courses in algorithms. My free textbook, along with a complete archive of related course materials, is freely available at http://jeffe.cs.illinois.edu/teaching/algorithms/. Please send me bug reports! For a complete overview of my research activities, please see my publication archive athttp://jeffe.cs.illinois.edu/pubs/.","
+Applications of geometry, topology, and optimization to computer graphics, robotics, spatial databases, and mesh generation
+Combinatorial optimization
+Computational and discrete geometry and topology
+Algorithms, data structures, and lower bounds","
+Theory and Algorithms",
+mfleck,Margaret M Fleck,,,"
+Artificial Intelligence",
+daf,David Alexander Forsyth,,,,
+wfu,Wai-Tat Fu,,,"
+Graphics, Visualization and HCI",
+garzaran,Maria Jesus Garzaran,,,"
+Architecture, Compilers, and Parallel Computing
+Systems and Networking",
+c-gear,Charles Gear,,,,
+girju,Corina R Girju,,,,
+pbg,Philip B Godfrey,,,,
+wgropp,William D Gropp,,"
+High Performance Computing
+Programming models for scientific computing
+Scalable Numerical Algorithms
+Scientific Computing
+Parallel Computing","
+Architecture, Compilers, and Parallel Computing
+Bioinformatics and Computational Biology
+Parallel / High-performance Computing
+Scientific Computing",
+cgunter,Carl Gunter,,,,
+egunter,Elsa Gunter,,,"
+Programming Languages / Formal Methods / Software Engineering",
+indy,Indranil Gupta,,"
+Cloud Computing","
+Systems and Networking",
+hanj,Jiawei Han,,,,
+harandi,Mehdi T Harandi,,,"
+Artificial Intelligence",
+sariel,Sariel Har-Peled,,,"
+Theory and Algorithms",
+jch,John C Hart,,,"
+CS Education
+Graphics, Visualization and HCI",
+jhasegaw, Mark Hasegawa-Johnson,"Mark Hasegawa-Johnson has been on the faculty at the University of Illinois since 1999, where he is currently a Professor of Electrical and Computer Engineering. He received his Ph.D. in 1996 at MIT, with a thesis titled ""Formant and Burst Spectral Measures with Quantitative Error Models for Speech Sound Classification,"" after which he was a post-doc at UCLA from 1996-1999. Prof. Hasegawa-Johnson is a Fellow of the Acoustical Society of America, and a Senior Member of IEEE and ACM. He is currently Treasurer of ISCA, and Senior Area Editor of the IEEE Transactions on Audio, Speech and Language. He has published 280 peer-reviewed journal articles and conference papers in the general area of automatic speech analysis, including machine learning models of articulatory and acoustic phonetics, prosody, dysarthria, non-speech acoustic events, audio source separation, and under-resourced languages. Professor Hasegawa-Johnson typically teaches Artificial Intelligence (CS 440/ECE 448), Multimedia Signal Processing (ECE 417), and Speech and Image Analysis (ECE 401). He has also taughtSpeech Processing (ECE 537), Digital Signal Processing (ECE 551), Audio Engineering (ECE 403), Pattern Recognition (ECE 544NA), and Probability (ECE 313). Dr. Hasegawa-Johnson's research is focused on the area of automatic speech recognition, with a particular focus on the mathematization of linguistic concepts. In the past five years, Dr. Hasegawa-Johnson's group has developed mathematical models of concepts from linguistics including a rudimentary model of pre-conscious speech perception (the landmark-based speech recognizer), a model that interprets pronunciation variability by figuring out how the talker planned his or her speech movements (tracking of tract variables from acoustics, and of gestures from tract variables), and a model that uses the stress and rhythm of natural language (prosody) to disambiguate confusable sentences. Recent application successes include: * Speech recognition for talkers with cerebral palsy.  The automatic system, suitably constrained, outperforms a human listener. * Retrieval of broadcast television segments in four languages, based on queries specified in the international phonetic alphabet.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took third place in this international competition, and was the only finalist from the United States. * Automatic detection and labeling of non-speech audio events.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took first place in this international competition. * Teaching Chinese.  Software and methods developed by Prof. Hasegawa-Johnson, together with his colleagues from Linguistics and Psychology, are being tested in Mandarin language classrooms at the University of Illinois. Professor Hasegawa-Johnson typically supervises one or two undergraduate research projects per year, thesis research preferred.  Past student theses include automatic recognition of musical genre, factorial HMMs for the automatic recognition of speech in music backgrounds, prosody-dependent speech recognition, image source modeling of room impulse response, sonorancy classification for automatic language ID, phonetic landmark detection for automatic language ID, and digital field recorder for acquisition of a natural audio database.","
+Acoustic phonetics, Audio signal processing and speech recognition, Speech and auditory physiology.","
+Acoustics
+Adaptive signal processing
+Biomedical imaging
+Computer vision and pattern recognition
+Image, video, and multimedia processing and compression
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Random processes
+Robotics and motion planning
+Signal detection and estimation
+Signal Processing
+Speech recognition and processing","
+Autonomous Systems and Artificial Intelligence
+Data science and analytics
+Data/Information Science and Systems"
+heath,Michael T Heath,"Michael T. Heath is Professor and Fulton Watson Copp Chair Emeritus in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He received his PhD in Computer Science from Stanford University in 1978. His research interests are in scientific computing, particularly numerical linear algebra and optimization, and in parallel computing. He is an ACM Fellow, a SIAM Fellow, an Associate Fellow of the AIAA, and a member of the European Academy of Sciences.  He served as Director of the Computational Science and Engineering Program 1996-2012, Director of the Center for Simulation of Advanced Rockets 1997-2010, and Interim Head of the Department of Computer Science 2007-2009.  Heath has been lead investigator on more than $52M in research funding from federal and corporate grants and contracts at the University of Illinois. Prof. Heath teaches courses in scientific computing, particularly CS 450 (Numerical Analysis) and CS 554 (Parallel Numerical Algorithms).  He has also developed an extensive set of online interactive educational modules in scientific computing (see http://www.cs.illinois.edu/~heath/iem/). He has won numerous teaching awards, including the William L. Everitt Award for Teaching Excellence (1998), the Campus Award for Excellence in Graduate and Professional Teaching (2002), and the Taylor L. Booth Education Award from the IEEE Computer Society (2009). Prof. Heath's research interests are in scientific computing, particularly numerical linear algebra and optimization, and in parallel computing.","
+Professor Heath's general areas of research are in large-scale scientific computing, numerical analysis,
+and parallel computing. His primary research interests are in numerical linear algebra, particularly sparse matrix computations. He also has significant research interests
+in parallel performance visualization, parallel programming environments, numerical optimization,
+and mathematical software.","
+Scientific Computing",
+c-heeren,Cinda Heeren,,,,
+hirani,Anil Nirmal Hirani,,,,
+juliahmr,Julia Constanze Hockenmaier,,,"
+Artificial Intelligence",
+dhoiem,Derek W Hoiem,,"
+Computer Vision, Object Recognition, Scene Understanding, Graphics",,
+yihchun,Yih-Chun Hu,,,,
+t-huang1,Thomas S Huang,"My research lies in two related areas: Multimodal (esp. audio and visual) human computer interaction; and Multimedia (images, video, audio, text) annotation and search. Research projects in the first area include: Visual hand tracing and gesture recognition; audio-visual recognition of gender, age group, and emotion. Projects in the second area include: Web-based face annotation and recognition; multimedia profiling of broadcast news anchors.","
+Image Processing, Image Compression, Computer Vision, Human Computer Interaction, Image and Video Databases, Machine Learning","
+Computer vision and pattern recognition
+Signal Processing","
+Autonomous vehicular technology, UAVs
+Cognitive computing
+Data science and analytics
+Human computer interactions
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging"
+w-hwu,Wen-mei Hwu,,"
+Architecture, microarchitecture, libraries, and programming tools for parallel cognitive computing systems.","
+Algorithms and computational complexity
+Biomedical imaging
+Cloud computing
+Compilers
+Computed imaging systems
+Computer architecture
+Logic design and VLSI
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Operating systems
+Parallel processing
+Programming languages","
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Cognitive computing
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging
+Smart infrastructures
+Speech, language, and audio processing"
+rkiyer,Ravishankar K Iyer,"Ravishankar K. Iyer is George and Ann Fisher Distinguished Professor of Engineering at the University of Illinois at Urbana-Champaign. He holds joint appointments in the Departments of Electrical and Computer Engineering and Computer Science, in the Coordinated Science Laboratory (CSL), the National Center for Supercomputing Applications, the Carle Illinois College of Medicine, and the Carl R. Woese Institute for Genomic Biology. He is also faculty Research Affiliate at the Mayo Clinic, and Yeoh Ghin Seng Distinguished Visiting Professor of the National University Health System, Singapore. Professor Iyer leads the DEPEND Group at CSL, with a multidisciplinary focus on systems and software that combine deep measurement driven analytics and machine learning with applications in two important domains: i) trust (that spans resilience and the security of critical infrastructures) and ii) health (that spans computational genomics and health analytics focused on personalized medicine). The Depend Group has developed a rich AI analytics framework that has been deployed on real-world applications in collaborations with industry, health providers, and government agencies including NSF, NIH, and DoD. Iyer directs the Illinois/Mayo NSF Center for Computational Biotechnology and Genomic Medicine (CCBGM).  Professor Iyer is a Fellow of the American Association for the Advancement of Science (AAAS), the Institute of Electrical and Electronics Engineers (IEEE), and the Association for Computing Machinery (ACM). He has received several awards, including the IEEE Emanuel R. Piore Award, and the 2011 Outstanding Contributions award by the Association of Computing Machinery. Professor Iyer is also the recipient of the degree of Doctor Honoris Causa from Toulouse Sabatier University in France.","
+Reliable and secure networks and systems, Measurement and modeling, dependability and security validation and benchmarking, data analytics, computing for genomics research.",,
+shj,Sheldon Howard Jacobson,,,,
+kale,Laxmikant V Kale,,,,
+kamin,Samuel N Kamin,,,"
+CS Education",
+kkarahal,Kyratso George Karahalios,,,,
+kirlik,Alex Kirlik,"Alex Kirlik is Professor in the Department of Computer Science with additional appointments in the Department of Industrial & Enterprise Systems Engineering, the Department of Electrical and Computer Engineering, the Beckman Institute for Advanced Science and Technology, and the Information Trust Institute, the Coordinated Science Laboratory, the Intelligent Robotics Laboratory and the Illinois Informatics Institute. He previously served as acting head of Illinois's Human Factors program in the Institute of Aviation from 2006-2010.    Alex earned his B.S., M.S. and Ph.D. degrees in Industrial & Systems Engineering (Human-Machine Systems) at The Ohio State University. His Ph.D. thesis, ""The organization of perception and action in complex control skills"" earned the George Briggs Award from APA's Division of Applied Experimental and Engineering Psychologists, as the best dissertation of the year.  During his academic career, in addition to positions held with his home institutions at the University of Illinois (2002-date) and Georgia Tech (1989-2001), Alex has held visiting positions at Stanford University and NASA Ames Research Center (ASEE-NASA Stanford Summer Faculty Fellow, 1989, 1990), Yale University, Haskins Laboratory and the University of Connecticut (Visiting Scholar, 2001-02 academic year), Draper Laboratory, Cambridge, MA (Sabbatical Research, 2012-13 academic year), and the Liberty Mutual Research Institute for Safety (Visiting Scholar, summer 2015). Alex's research interests include human-computer interaction, human factors,  visual analytics to support judgment and decision making, human-robot interaction, social computing, human-automation interaction and decision support is sociotechnical systems such as aviation, space, intelligence analysis, severe weather forecasting, disaster and emergency response, healthcare and medicine, autonomous vehicles, education and so forth.
+Alex's approach to teaching and mentoring students is naturally dependent of the level of instruction involved. Perhaps one notable aspect of his educational approach is that no crisp line can be drawn between his interests and activities in research and teaching. For example, he has advised 2 PhD dissertations on the development and evaluation of new techniques and technologies for teaching engineering design.
+
+His research and educational activities also dovetail in the realm of his graduate seminars, which are intensively group- and project-based, typically involving students in actual research projects to motivate and animate the course material. For example, in 2010 Alex seized on an opportunity afforded by a U.S. Challenge.gov Health and Human Services competition that required competing project teams to design a Facebook app that would be useful to people in the aftermath of natural disasters and emergencies. This project not only involved the students, working as a design team, to create a conceptual design for the app, but to also create a working software prototype and a video demo. The competition was open to any group who wanted to enter  it was not specifically targeted to the educational community or to educational institutions. The students design earned 3rd place nationally.
+
+  Alex's approach to teaching and mentoring students is naturally dependent of the level of instruction involved. Perhaps one notable aspect of his educational approach is that no crisp line can be drawn between his interests and activities in research and teaching. For example, he has advised 2 PhD dissertations on the development and evaluation of new techniques and technologies for teaching engineering design. His research and educational activities also dovetail in the realm of his graduate seminars, which are intensively group- and project-based, typically involving students in actual research projects to motivate and animate the course material. For example, in 2010 Alex seized on an opportunity afforded by a U.S. Challenge.gov Health and Human Services competition that required competing project teams to design a Facebook app that would be useful to people in the aftermath of natural disasters and emergencies. This project not only involved the students, working as a design team, to create a conceptual design for the app, but to also create a working software prototype and a video demo. The competition was open to any group who wanted to enter  it was not specifically targeted to the educational community or to educational institutions. The students design earned  3rd place nationally:www.hhs.gov/news/press/2012pres/02/20120223b.html His current (Spring, 2017) syllabus for his graduate course ""Experimental Methods for HCI and Interactive Technologies in Engineering"" can be found at: courses.engr.illinois.edu/cs598ack.html Alex Kirliks research program in human-computer interaction, human factors, and cognitive science & engineering has focused on understanding and supporting the cognition (judgment, decision making, prediction, problem solving and system control), of professionals working in technological workplaces, operational contexts and sociotechnical systems. His research contributing to commercial aviation safety in both airborne and ground operations has been supported by NASA for over 25 years. Recently, aspects of these lines of research have matured into NSF- and NASA-sponsored multidisciplinary projects, joint with collaborators in aerospace, mechanical and software engineering, to create and evaluate formal techniques and general principles for the design of safe and robust cyber-physical-human systems comprised of people and hardware and software automation: Engineering Safety-Critical Cyber-Physical-Human (CPH) Systems. The aim of this research, which is relevant to applications not solely in aviation but in contexts such as healthcare and highways, is to achieve levels of human-automation system performance, robustness and safety exceeding what would be achievable by either a human or automation acting alone. A 5-minute public video demo illustrating this work in an aviation context is available at:www.youtube.com/watch. A second major thrust of Alex's research concerns support for judgment and decision making in high-stakes tasks. This line of research developed into an NSF-sponsored project to develop and evaluate quantitative models of judgment in technological systems (e.g., KIrlik, 2006, Adaptive Perspectives on Human-Technology Interaction, NY: Oxford; see: www.oup.com/us/companion.websites/9780195171822/). Recently, Alex also participated in an IARPA-sponsored project to develop visual analytics to support intelligence analysts in forecasting world events: http://www.draper.com/news/draper-team-aims-improve-predictions-through-sp-de/?cc=us&lang=en&"", and most recently, he and his multi-disciplinary team began a 3-year research project involving the design and use of domestic, aerial and ground robotics to support aging-in-place called ASPIRE: Automation Supporting Prolonged Independent Residence for the Elderly, sponsored by the National Robotics Initiative. A brief video showing progress to date, presented at the October, 2016 ""Aging 2.0"" conference in San Francisco can be viewed at:https://www.youtube.com/watch?v=YoUvRaTnA8c#action=share"" Also, Alex has co-edited (with J.D. Lee) the first authoritative handbook of its kind, The Oxford Handbook of Cognitive Engineering (2013), representing the contributions of more than 60 of the disciplines most influential and accomplished researchers. He has been editor of the Oxford Series in Human-Technology Interactionfor Oxford University Press for more than 10 years, a series that includes more than a dozen scholarly books and edited volumes by prominent researchers published to date: https://global.oup.com/academic/content/series/h/human-technology-interaction-series-hti/?cc=us&lang=en&    Alex often has paid or for-credit undergraduate research opportunities in both human-computer interaction and human factors.",,"
+Human-Computer Interaction
+Visualization",
+kiyavash,Negar Kiyavash,,"
+Statistical Signal Processing with Applications to Network Inference and Security.","
+Forensics
+Network Security",
+akolla,Alexandra Kolla,,,,
+rhk,Robin Hillary Kravets,,,"
+Systems and Networking",
+lavalle,Steven M. LaValle,"Professor LaValle is interested primarily in the design of planning algorithms. His focus is mainly on problems that involve continuous spaces, complicated geometric constraints, differential constraints, and/or sensing uncertainties. Such problems are fundamental in areas such as robotics, computer graphics, architectural design, and computational biology. The planning techniques developed in his research group build on literature from robotics, algorithms, computational geometry, artificial intelligence and control theory. In addition to algorithm design, Professor LaValle is interested both in theoretical analysis and practical implementation issues. To stimulate the use of planning algorithms in research, education, and industry, he developed the Motion Strategy Library (MSL) together with his students.","
+Robotics, sensing, motion planning, cyber-physical systems, control theory, computational geometry, artificial intelligence, computational biology, computer vision, computer graphics, virtual reality, filtering, sensor fusion, planning algorithms.","
+Artificial Intelligence
+Graphics, Visualization and HCI
+Systems and Networking",
+lawrie,Duncan H Lawrie,,,,
+slazebni,Svetlana Lazebnik,,,"
+Artificial Intelligence",
+lumetta, Steven Lumetta,"If the MRI is funded, there are three positions for people to develop the instrument, and I intend to find postdocs to fill those positions.   The intent is to use the MRI as a catalyst for interdisciplinary research efforts around computational genomics, so these postdocs will be able to help with those efforts and participate in them part time (% for some of the positions ramps down later in the project based on assumption of moving part of their time over to research efforts).","
+computational genomics, smartphone-based bioassays, optical network architecture, computer architecture, cluster computing, parallel computing, user-level communication, validation and reliability","
+Software systems",
+marinov,Darko Marinov,,,"
+Programming Languages / Formal Methods / Software Engineering",
+mchenry,Kenton Guadron McHenry,,,,
+meseguer,Jose Meseguer,,,"
+Programming Languages / Formal Methods / Software Engineering",
+mickunas,M Dennis Mickunas,,,,
+klara,Klara Nahrstedt,,"
+Tele-health, trustworthy algorithms and protocols for health-based services; mobile trustworthy services for tele-health; wearable cameras in tele-health,  reduction of visual content in health-based scenarios
+Multimedia Security, Quality of Security,  watermarking, ownership and protection of ownership, privacy-preserving protocols for cyber-physical systems
+Smart Grid, Real-time security for CPS - real-time authentication protocols for smart grids, real-time encryption, key-management for Electric Vehicles,  key management for generation and transmission networks, trustworthy protocols for critical cyber-infrastructures such as Oil and Gas.
+Cloud computing, edge computing -  cyber-infrastructures for scientific instruments, real-time cloud computing, micro-services and real-time control of micro-services,  edge-cloud infrastructure;  real-time micro-service placement in edge-cloud infrastructure for multi-modal data;
+Quality of Experience for advanced multimedia applications - QoE for Video 360, QoE metrics and measurement methodologies.
+3D Teleimmersion - telepresence systems with advanced multi-camera systems, advanced distribution systems and immersive delivery and display, teleimmersive environments, teleimmersive applications such as cyber-physiotherapy; multi-view content distribution protocols and algorithms; Video 360 systems;
+Semantic Translation between 3D teleimmersive applications and  distributed systems, QoS Brokerage in distributed systems, QoS compilation for real-time multi-modal applications.
+MIddleware platforms for multi-modal applications - QoS-aware service composition,  semantic translation between applications and and networks; content distribution protocols,
+Real-Time Resource Management for Multimedia Systems - QoS-aware Resource Management in wired and wireless networks,  Soft Real-time Scheduling, Energy-aware Multimedia Operating Systems and Network Protocols,
+QoS Routing - distributed QoS routing, hierarchical QoS routing, low-latency routing
+Network Quality of Service Management, Integration of Guaranteed and Best Effort Services for Audio/Video/DATA Traffic,  Real-Time Network Streaming and Distribution Protocols of Multi-Modal Content.","
+Reliable and High Performance Computing",
+dmnicol, David M. Nicol,"I aim to convey difficult material clearly, and challenge students to integrate concepts to solve new types of problems that follow immediately from the material covered. The study of large-scale systems encounters problems in representation, scalability, and behavior.  Project MOSES investigates such issues, particularly in the context of networking security. I have almost always had undergraduates working on my research team.  I support undergraduate summer interns.","
+security policy and its analysis
+parallel discrete-event simulation
+fluid based modeling
+mathematical modeling and analysis
+security
+public-key infrastructure",,
+lukeo,Luke Olson,,,,
+padua,David A Padua,,,"
+Architecture, Compilers, and Parallel Computing
+Programming Languages / Formal Methods / Software Engineering",
+madhu,Madhusudan Parthasarathy,,"
+  Reasoning with heaps in software verification (Natural proofs, Strand, separation logic);
+
+    Software Verification;
+    Reliable and secure software engineering;
+    Security;
+    Program Synthesis;
+    Logic and Automata Theory.",,
+pitt,Leonard B Pitt,,,"
+Theory and Algorithms",
+mmp,Manoj M Prabhakaran,,,,
+reingold,Edward M Reingold,,,,
+grosu,Grigore Rosu,,,"
+Programming Languages / Formal Methods / Software Engineering",
+danr,Dan Roth,,,"
+Artificial Intelligence
+Database and Information Systems",
+rutenbar, Rob A. Rutenbar,,"
+Software tools for integrated circuit design;   tools for understanding nanoscale IC designs;  silicon accelerator architectures for computationally difficult tasks","
+Architecture, Compilers, and Parallel Computing
+Artificial Intelligence",
+whs,William H Sanders,,,,
+schatz,Bruce R Schatz,,,,
+p-schran,Peter Schran,,,,
+lrs, Lui Sha,,"
+Cyber Physical Systems, Formalized Reduced Complexity Architecture Patterns, Distributed real-Time fault tolerant computing systems, dynamic real-Time architecture.",,
+shaffer1,Eric Gene Shaffer,,,"
+CS Education",
+sinhas,Saurabh Sinha,,,,
+skeel,Robert D Skeel,,,,
+paris,Paris Smaragdis,"Paris Smaragdis is faculty at the Computer Science and the Electrical and Computer Engineering departments of the University of Illinois at Urbana-Champaign, as well as a senior research scientist at Adobe Research. He completed his masters, PhD, and postdoctoral studies at MIT, performing research on computational audition. His research is focused on machine learning approaches to solving various audio signal processing problems. In 2006 he was selected by MITs Technology Review as one of the years top young technology innovators for his work on machine listening, in 2015 he was elevated to an IEEE Fellow for contributions in audio source separation and audio processing, and he served as an IEEE SPS Distinguished Lecturer in 2016-2017. He is currently the chair of IEEE's Audio and Acoustic Signal Processing Technical Committee, and a member-at-large of the IEEE Signal Processing Society Board of Governors. He has been the chair of the ICA/LCA steering committee, the chair of the IEEE Machine Learning for Signal Processing Technical Committee, a member of the IEEE Audio and Acoustic Signal Processing Technical Committee, an Associate Editor for the IEEE Signal Processing Letters, and a Senior Area Editor for the IEEE Signal Processing Transactions. He holds 37 US patents and many other internationally.","
+Machine Learning
+Signal Processing
+Machine Listening
+Audio Processing","
+Audio, speech, music and auditory processing
+Machine learning
+Machine learning and pattern recognition
+Robotics, vision, and artificial intelligence
+Signal detection and estimation
+Signal Processing
+Speech recognition and processing","
+Autonomous Systems and Artificial Intelligence
+Data science and analytics
+Data/Information Science and Systems
+Machine learning
+Speech, language, and audio processing"
+gdtaylo,Gale D Taylor,,,,
+uthakkar,Umesh Thakkar,,,,
+torrella,Josep Torrellas,,"
+
+    Computer Architecture
+    Shared-Memory Multiprocessors
+    Parallel Processing
+    Hardware and Software Reliability
+    Low Power Design","
+Compilers
+Computer architecture
+Fault tolerance and reliability
+Operating systems
+Parallel processing
+System modeling and measurement","
+Cognitive computing
+Computational science and engineering
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Machine learning
+Wearable and mobile computing"
+twidale,Michael Bernard Twidale,,,,
+nhv,Nitin H Vaidya,"Nitin Vaidya received the Ph.D. from the University of Massachusetts at Amherst. He is a Professor of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign. He has held visiting positions at Argonne National Labs, Technicolor Paris Lab, TU-Berlin, IIT-Bombay, Microsoft Research, and Sun Microsystems, as well as a faculty position at the Texas A&M University. Nitin Vaidya has co-authored papers that received awards at several conferences, including 2015 SSS, 2007 ACM MobiHoc and 1998 ACM MobiCom. He is a fellow of the IEEE. He presently serves the Chair of the Steering Committee for the ACM PODC conference, and has previously served as Editor-in-Chief for the IEEE Transactions on Mobile Computing, and Editor-in-Chief for ACM SIGMOBILE publication MC2R. More information at http://disc.ece.illinois.edu/. My teaching interests are in the area of distributed computing and networking. Research on distributed algorithms and systems. Prof. Vaidya's research group conducts research in the area of distributed algorithms and systems. Opportunities are sometimes available for undergraduate students interested in working on distributed systems. Suitable students will have taken ECE 428/CS 425 and preferably CS 374.","
+Fault-Tolerant Computing
+Distributed algorithms","
+Communication networks
+Computer networking
+Computer security, privacy, and information trust
+Distributed algorithms
+Distributed and peer-to-peer systems
+Fault tolerance and reliability","
+Autonomous Systems and Artificial Intelligence
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data/Information Science and Systems
+Distributed computing and storage systems
+Network science and engineering"
+shobhav,Shobha Vasudevan,,"
+Algorithms for graphical/network analysis of data
+Verification of digital, analog and mixed signal systems","
+Algorithms and computational complexity
+Analog integrated circuits
+Biosensors and bioelectronics
+Compilers
+Computer aided design
+Computer aided design of integrated circuits
+Computer architecture
+Computer security, privacy, and information trust
+Discrete-event, switched and hybrid systems
+Fault tolerance and reliability
+Formal methods and software verification
+Hardware systems
+Integrated circuit reliability
+Logic design and VLSI
+Machine learning and pattern recognition
+Operating systems
+Programming languages
+System modeling and measurement
+VLSI architectures and integrated circuits for DSP and communications
+VLSI in communications","
+Autonomous vehicular technology, UAVs
+Cyberphysical systems and internet of things
+Data science and analytics
+Genomics
+Healthcare and medical technologies
+Machine learning"
+p-violas,Paul C Violas,,,,
+vmahesh,Mahesh Viswanathan,,,"
+Programming Languages / Formal Methods / Software Engineering
+Theory and Algorithms",
+winslett,Marianne S Winslett,,"
+Information security, scientific data management",,
+mdfwong,Martin D F Wong,,"
+Combinatorial optimization
+Design and analysis of algorithms
+Field-programmable systems
+Design for Manufacturing
+CAD for VLSI Electronic Packaging
+Computer-aided design of VLSI","
+Algorithms and computational complexity
+Circuits
+Computer aided design of integrated circuits
+Logic design and VLSI",
+mwoodley,Michael Joseph Woodley,,,,
+czhai,ChengXiang  Zhai,,,"
+Bioinformatics and Computational Biology
+CS Education
+Database and Information Systems",
+zilles,Craig Zilles,,,,
