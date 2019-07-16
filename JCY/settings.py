@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'JCY.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'trial',
+        'NAME': 'coursejob',
         'USER': 'root',
         'PASSWORD': 'Tokaino1!'
     }
